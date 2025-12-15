@@ -1,0 +1,737 @@
+import { reactive } from 'vue';
+import { config } from '@/config/index.js';
+
+export const publicationsData = reactive({
+  hero: {
+    title: 'Publications',
+  },
+  content: {
+    sectionTitle: 'Selected<br>Publications',
+    paragraphs: []
+  },
+  frontcover: [
+    {
+      "url": "https://doi.org/10.1002/adma.202207787",
+      "img": `${config.githubRepoUrl}ZhangLab/labphotos/fc1.8adpqudlzq.webp`
+    },
+    {
+      "url": "https://doi.org/10.6023/A24090258",
+      "img": `${config.githubRepoUrl}ZhangLab/labphotos/fc3.4ubdyr1v2l.webp`
+    },
+    {
+      "url": "https://doi.org/10.1016/j.mattod.2022.11.011",
+      "img": `${config.githubRepoUrl}ZhangLab/labphotos/fc2.36211kb4yn.webp`
+    },
+    {
+      "url": "https://doi.org/10.1039/D0TB01018A",
+      "img": `${config.githubRepoUrl}ZhangLab/labphotos/fc4.8s3rjirclj.webp`
+    }
+  ],
+  publications: [
+  {
+    "year": 2025,
+    "title": "Dissolved Bubble Microneedle Patches for Co-Delivery of Hydrophobic and Hydrophilic Drugs to Improve Acne Vulgaris Therapy",
+    "authors": "Xiaopeng Zhang, Xiaotong Zhao, Yiting Li, Wanyue Zhang, Yuanyuan Chen, Haidong Jia, Zhibing Zhang, Can Yang Zhang*",
+    "journal": "Microsystems & Nanoengineering",
+    "type": "Journal Article",
+    "url": "https://www.nature.com/articles/s41378-025-01079-y",
+    "abstract": "Acne vulgaris, a prevalent inflammatory skin disorder, poses significant clinical challenges due to its multifactorial pathogenesis involving Propionibacterium acnes (P. acnes) proliferation and chronic inflammation. Conventional therapies, including topical applications, oral medication, and laser treatments, face limitations in drug penetration, patient compliance, and therapy efficacy. Currently, the combined use of hydrophilic drugs and hydrophobic drugs is a commonly recommended clinical approach. However, conventional formulations severely struggle to effectively deliver and release both therapeutic agents at the affected site. To address these issues, we developed the dissolved bubble microneedle patches (DBMNPs) for the co-delivery of hydrophilic (dipotassium glycyrrhizinate, DPG), hydrophobic (PIONIN) drugs, and alongside salicylic acid (SA) at the same time. The DBMNPs, which were fabricated basing on hyaluronic acid (HA), featured hollow bubble structures to encapsulate lipophilic agents, enabling spatially segregated and temporally controlled drug release. The patches exhibited good mechanical strength, excellent biocompatibility, and potent antimicrobial activity against P. acnes. In vivo studies confirmed their efficacy in treating acne vulgaris, offering a minimally invasive and clinically translatable approach to enhance therapeutic effect while minimizing systemic side effects. This study reports a microneedle platform that successfully addresses the key challenge of co-loading and co-delivering both hydrophilic and hydrophobic drugs, and is expected to be applied in the treatment of other skin diseases."
+  },
+  {
+    "year": 2025,
+    "title": "Nano/micro-scale targeted RNA delivery systems for cancer therapy",
+    "authors": "Xiaobin Li, Junyu Liu, Yun Chen, Jisong Zhang, Juan Li, Ernst Wagner, Can Yang Zhang*",
+    "journal": "International Journal of Pharmaceutics",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1016/j.ijpharm.2025.126451",
+    "abstract": "RNA therapy has emerged as a transformative approach for treating cancer. However, the clinical application of RNA therapy faces significant challenges due to the biological barriers such as enzymatic degradation, reticuloendothelial system (RES) clearance, and low transfection efficiency. To address these limitations, a huge number of engineered nano/micro-scale vehicles have been thoroughly investigated and extensively used for targeted delivery of RNA. In this work, we summarized a comprehensive review of the nano/micro-scale targeted RNA delivery systems, coupled with critical insights into challenges and opportunities. We firstly reviewed the various nano/micro-scale vectors and technologies for RNA delivery in cancer therapy, including lipid nanoparticles, polymeric micelles, hydrogels, microneedles, exosomes, nanoparticles, metal–organic framework, covalent organic frameworks and living cells. We further summarized the challenges, highlighting the potential to achieve high therapeutic efficacy and minimal side effects. Ultimately, the perspectives of nano/micro-scale targeted RNA delivery systems are thoroughly discussed. Collectively, we believe that RNA therapies based on nano/micro-scale delivery strategies could be potentially applied in clinical fields to promote the improvement of cancer treatments."
+  },
+  {
+    "year": 2025,
+    "title": "Dissolved Bubble Microneedle Patches for Co-Delivery of Hydrophobic and Hydrophilic Drugs to Improve Acne Vulgaris Therapy",
+    "authors": "Xiaopeng Zhang, Xiaotong Zhao, Yiting Li, Wanyue Zhang, Yuanyuan Chen, Haidong Jia, Zhibing Zhang, Can Yang Zhang*",
+    "journal": "Microsystems & Nanoengineering",
+    "type": "Journal Article",
+    "url": "https://www.nature.com/articles/s41378-025-01079-y"
+  },
+  {
+    "year": 2025,
+    "title": "Enhanced microfluidic mixing for controlled liposome formation: A comparative study of mixer design",
+    "authors": "Zihan Li, Bingqi Xie, Wei Liu, Yongxuan Gu, Can Yang Zhang, Jisong Zhang*",
+    "journal": "Chemical Engineering Science",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1016/j.ces.2025.121900"
+  },
+  {
+    "year": 2025,
+    "title": "Molecule engineering of coumarin to reverse aggregation-caused quenching: Facile access to BioAIEgens",
+    "authors": "Shouji Li, Xiaobin Li, Junyu Liu, Yuting Lin, Xuedan Zhang, Weiren Zhong, Juan Li*, Caifa You, Dong Wang, Jisong Zhang, Xu Xu*, Xu-Min Cai*, Can Yang Zhang*",
+    "journal": "iScience",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1016/j.isci.2025.112520"
+  },
+  {
+    "year": 2025,
+    "title": "and Seamless Ionic Conductive Electrode for Epidermal Electrophysiological Signal Acquisition and Human-Machine Interaction",
+    "authors": "Likun Zhang, Peiwu Qin*, Huazhang Ying, Zhicheng Du, Chenying Lu, Minjiang Chen, Liyan Lei, Ziwu Song, Jiaju Chen, Xi Yuan, Canhui Yang, Vijay Pandey, Can Yang Zhang, Dongmei Yu, Peisheng He, Liwei Lin, Wenbo Ding, Xinhui Xing, Chenggang Yan*, Jiansong Ji*, Zhenglin Chen*, A 3.55-µm Ultrathin, Skin-Like Mechanoresponsive, Compliant",
+    "journal": "Exploration",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1002/EXP.20240232"
+  },
+  {
+    "year": 2025,
+    "title": "Discovery of a novel tetrapeptide as glucose homeostasis modulator with bifunctionalities of targeting DPP-IV and microbiota",
+    "authors": "Haihong Chen, Wei Li, Wei Hu, Junyu Liu, Canyang Zhang, Yi Wang, Chong Zhang, Xizhen Zhang, Shuo Chen, Qixing Nie*, Xinhui Xing*",
+    "journal": "iMeta",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1002/imt2.70072"
+  },
+  {
+    "year": 2025,
+    "title": "Association analysis of an anti-obesity mechanism and key ripened Pu-erh tea bioactive components by mimicking human general tea drinking",
+    "authors": "Junyu Liu, Zhengyang Song, Haihong Chen, Wen Zeng, Guirong Han, Wei Li, Bing Xu, Yuan Lu, Canyang Zhang, Zhenglian Xue, Bin Lü, Chong Zhang, Song Yang*, Yi Wang*, Xinhui Xing*",
+    "journal": "Food Science and Human Wellness",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.26599/FSHW.2024.9250030"
+  },
+  {
+    "year": 2025,
+    "title": "非生物元件增强的合成生物杂合体系研究进展",
+    "authors": "黄瑜晴, 吴涵, 李晓彬, 刘君禹, 马少华, 戈钧, 邢新会, 张灿阳*",
+    "journal": "合成生物学",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.12211/2096-8280.2025-048"
+  },
+  {
+    "year": 2024,
+    "title": "A portable and washable solar steam evaporator based on graphene and recycled gold for efficient point-of-use water purification",
+    "authors": "Fei Li, Jiongpeng Huang, Dingxin Xu, Chengjin Wang, Liang Zhao, Xinyu Gong, Hang Li, Can Yang Zhang, Qinghua Song, Yang Su*, Hui-Ming Cheng*",
+    "journal": "Science China Materials",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1007/s40843-024-3089-2"
+  },
+  {
+    "year": 2024,
+    "title": "Advances in the development of therapeutic mRNA vaccines for cancer therapy",
+    "authors": "Kexin Deng, Xiaobin Li, Wanwan Liu, Junyu Liu, Runming Wang, Yandong Yin, Can Yang Zhang*",
+    "journal": "Chinese Science Bulletin",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1360/TB-2024-0878"
+  },
+  {
+    "year": 2024,
+    "title": "Advances in Nucleic Acid Drug Delivery Systems for Liver Cancer Treatment",
+    "authors": "Wanwan Liu, Dan Li, Kexin Deng, Junyu Liu, Jisong Zhang, Can Yang Zhang*",
+    "journal": "Acta Chimica Sinica",
+    "type": "Journal Article",
+    "note": "Front Cover Article",
+    "url": "https://doi.org/10.6023/A24090258"
+  },
+  {
+    "year": 2024,
+    "title": "Mitochondria-targeted drug delivery systems for improving cancer therapy",
+    "authors": "Wanwan Liu, Wenjuan Zhou, Tatsuhisa Tsuboi, Sanyang Han, Runming Wang, Shaohua Ma, Yandong Yin, Xin Dong Guo*, Can Yang Zhang*",
+    "journal": "Health Engineering",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.26599/HE.2024.9460002"
+  },
+  {
+    "year": 2024,
+    "title": "Mussel-Bioinspired Lignin Adhesive for Wearable Bioelectrodes",
+    "authors": "Oudong Hu, Mingjin Lu, Minkun Cai, Junyu Liu, Xueqing Qiu, Chuan Fei Guo, Can Yang Zhang*, Yong Qian*",
+    "journal": "Advanced Materials",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1002/adma.202407129"
+  },
+  {
+    "year": 2024,
+    "title": "Unraveling the influence of CRISPR/Cas13a reaction components on enhancing trans-cleavage activity for ultrasensitive on-chip RNA detection",
+    "authors": "Qian He, Qun Chen, Lijin Lian, Jiuxin Qu, Xi Yuan, Chuhui Wang, Lidan Xu, Jiazhang Wei, Shaoling Zeng, Dongmei Yu, Yuhan Dong, Yongbing Zhang, Lin Deng, Ke Du, Can Yang Zhang, Vijay Pandey, Ijaz Gul*, Peiwu Qin*",
+    "journal": "Microchimica Acta",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1007/s00604-024-06545-4"
+  },
+  {
+    "year": 2024,
+    "title": "“Two-birds-one-stone” oral nanotherapeutic designed to target intestinal integrins and regulate redox homeostasis for UC treatment",
+    "authors": "Long Huang, Wei Hu, Long Qun Huang, Qin Xuan Zhou, Zheng Yang Song, Heng Yu Tao, Bing Xu, Can Yang Zhang*, Yi Wang*, Xin Hui Xing*",
+    "journal": "Science Advances",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1126/sciadv.ado7438"
+  },
+  {
+    "year": 2024,
+    "title": "Unleashing the potential of tungsten disulfide: Current trends in biosensing and nanomedicine applications",
+    "authors": "Mohamed Bahri*, Dongmei Yu, Can Yang Zhang, Zhenglin Chen, Chengming Yang, Lyes Douadji, Peiwu Qin*",
+    "journal": "Heliyon",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1016/j.heliyon.2024.e24427"
+  },
+  {
+    "year": 2024,
+    "title": "Object detection for caries or pit and fissure sealing requirement in children's first permanent molars",
+    "authors": "Chenyao Jiang, Shiyao Zhai, Hengrui Song, Yuqing Ma, Yachen Fan, Yancheng Fang, Dongmei Yu, Can Yang Zhang, Sanyang Han, Runming Wang, Yong Liu, Zhenglin Chen*, Jianbo Li*, Peiwu Qin*",
+    "journal": "Computational Intelligence",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1111/coin.12653"
+  },
+  {
+    "year": 2024,
+    "title": "COVID-19: Post infection implications in different age groups, mechanism, diagnosis, effective prevention, treatment, and recommendations",
+    "authors": "Muhammad Akmal Raheem, Muhammad Ajwad Rahim, Ijaz Gul, Md. Reyad-ul-Ferdous, Can Yang Zhang, Dongmei Yu d, Vijay Pandey, Ke Du e, Runming Wang, Sanyang Han, Yuxing Han, Peiwu Qin*",
+    "journal": "Life Sciences",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1016/j.lfs.2024.122861"
+  },
+  {
+    "year": 2024,
+    "title": "Hybrid Microneedle-Mediated Transdermal Delivery of Atorvastatin Calcium-Loaded Polymeric Micelles for Hyperlipidemia Therapy",
+    "authors": "Ming Wen Ou Yang, Liu Fu Hu, Yun Hao Feng, Xiaobin Li, Juan Peng, Ruixing Yu*, Can Yang Zhang*, Bo Zhi Chen*, and Xin Dong Guo*",
+    "journal": "ACS Applied Bio Materials",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1021/acsabm.4c00399"
+  },
+  {
+    "year": 2024,
+    "title": "A conductive and anti-freezing gelatin-PAA-based organic hydrogel (PC-OH) with high adhesion and self-healing activities for wearable electronics",
+    "authors": "Zhenglin Chen, Jiaqi Yang, Zhicheng Du, Jiansong Ji, Likun Zhang, Haifei Guan, Zhengyang Lei, Xiaopeng Zhang, Canhui Yang, Ying Zhu, Qianhui Sun, Lulu Xu, Ke Lin, Yuchen Wang, Chuhui Wang, Chong Zhang, Dongmei Yu*, Peiwu Qin*, Can Yang Zhang*",
+    "journal": "Chemical Engineering Journal",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1016/j.cej.2024.152465"
+  },
+  {
+    "year": 2024,
+    "title": "Recent advances on two-dimensional material-based nanosystems for gene delivery",
+    "authors": "Mengjie Wang, Dan Li, Jiangtao Zhu, Junyu Liu, Yandong Yin, Yang Su, Chanyuan Jin, Juan Li*, Can Yang Zhang*",
+    "journal": "APL Materials",
+    "type": "Journal Article",
+    "note": "Editor's Picks",
+    "url": "https://doi.org/10.1063/5.0209799"
+  },
+  {
+    "year": 2024,
+    "title": "整合设计策略下的工程化类器官与类器官芯片技术",
+    "authors": "胡可儿, 王汉奇, 黄儒麒, 张灿阳*, 邢新会, 马少华*",
+    "journal": "合成生物学",
+    "type": "Journal Article",
+    "url": "https://synbioj.cip.com.cn/CN/10.12211/2096-8280.2023-105"
+  },
+  {
+    "year": 2024,
+    "title": "Antimicrobial research of carbohydrate polymer- and protein-based hydrogels as reservoirs for the generation of reactive oxygen species: A review",
+    "authors": "Lan Liu, Xin Fan, Qianyun Lu, Pengxu Wang, Xingang Wang, Yuxing Han, Runming Wang, Can Yang Zhang, Sanyang Han, Tatsuhisa Tsuboi, Hongliang Dai*, Jonathan Yeow*, Hongya Geng*",
+    "journal": "International Journal of Biological Macromolecules",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1016/j.ijbiomac.2024.129251"
+  },
+  {
+    "year": 2024,
+    "title": "Retinal disease projection conditioning by biological traits",
+    "authors": "Muhammad Hassan, Hao Zhang, Ahmed Ameen Fateh, Shuyue Ma, Wen Liang, Dingqi Shang, Jiaming Deng, Ziheng Zhang, Tsz Kwan Lam, Ming Xu, Qiming Huang, Dongmei Yu, Can Yang Zhang, Zhou You, Wei Pang, Chengming Yang*, Peiwu Qin*",
+    "journal": "Complex & Intelligent Systems",
+    "type": "Journal Article",
+    "url": "https://link.springer.com/article/10.1007/s40747-023-01141-0"
+  },
+  {
+    "year": 2023,
+    "title": "Prompt-enhanced hierarchical transformer elevating cardiopulmonary resuscitation instruction via temporal action segmentation",
+    "authors": "Yang Liu, Xiaoyun Zhong, Shiyao Zhai, Zhicheng Du, Zhenyuan Gao, Qiming Huang, Can Yang Zhang, Bin Jiang, Vijay Kumar Pandey, Sanyang Han, Runming Wang, Yuxing Han, Chuhui Wang*, Peiwu Qin*",
+    "journal": "Computers in Biology and Medicine",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1016/j.compbiomed.2023.107672"
+  },
+  {
+    "year": 2023,
+    "title": "Strategies to prevent water soluble drug leakage from nanovesicles in blood circulation: A coarse-grained molecular study",
+    "authors": "Yun Hao Feng, Wei Xin Guo, Xiaobin Li, Jiahui Liu, Vahideh Nosrati-Siahmazgi, Maryam Toolabi, Wen Min Fei, Yong Cui, Bo Zhi Chen, Mohammad-Ali Shahbazi, Li Juan Zhang, Can Yang Zhang*, Xin Dong Guo*",
+    "journal": "Chemical Engineering Science",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1016/j.ces.2023.118715"
+  },
+  {
+    "year": 2023,
+    "title": "Plasmonic nanomaterials: A versatile phototheranostic platform of cancers",
+    "authors": "Zhiguo He, Can Yang Zhang*, Yu Lei*, Guolin Song, Youwei Yao",
+    "journal": "Materials Today",
+    "type": "Journal Article",
+    "note": "Front Cover Article",
+    "url": "https://doi.org/10.1016/j.mattod.2022.11.011"
+  },
+  {
+    "year": 2023,
+    "title": "Multi-functional engineered polypeptide-based drug delivery systems for improved cancer therapy",
+    "authors": "Xiaobin Li, Junyu Liu, Haihong Chen, Yaxin Chen, Yi Wang, Can Yang Zhang*, Xin-Hui Xing*",
+    "journal": "Green Chemical Engineering",
+    "type": "Journal Article",
+    "url": "https://www.sciencedirect.com/science/article/pii/S2666952822000644"
+  },
+  {
+    "year": 2023,
+    "title": "Advances in nanoparticles-based approaches in cancer theranostics",
+    "authors": "Muhammad Akmal Raheem, Muhammad Ajwad Rahim, Ijaz Gul, Xiaoyun Zhong, Chufan Xiao, Haihui Zhang, Jiazhang Wei, Qian He, Muhammad Hassan, Can Yang Zhang, Dongmei Yu, Vijay Pandey, Ke Du, Runming Wang, Sanyang Han, Yuxing Han, Peiwu Qin*",
+    "journal": "OpenNano",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1016/j.onano.2023.100152"
+  },
+  {
+    "year": 2023,
+    "title": "phylogeography, and adaptive evolution of mpox virus",
+    "authors": "Haifei Guan, Ijaz Gul, Chufan Xiao, Shuyue Ma, Yingshan Liang, Dongmei Yu, Ying Liu, Hong Liu, Can Yang Zhang, Juan Li*, Peiwu Qin*, Emergence",
+    "journal": "New Microbes and New Infections",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1016/j.nmni.2023.101102"
+  },
+  {
+    "year": 2023,
+    "title": "Mining and Validation of Novel Hemp Seed-Derived DPP-IV-Inhibiting Peptides Using a Combination of Multi-omics and Molecular Docking",
+    "authors": "Hai-Hong Chen, Wei Li, Yi Wang, Bing Xu, Xi Hu, Xiaobing Li, Junyu Liu, Chong Zhang, Can Yang Zhang, Xin-Hui Xing*",
+    "journal": "Journal of Agricultural and Food Chemistry",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1021/acs.jafc.3c00535"
+  },
+  {
+    "year": 2023,
+    "title": "Research progress on classification, sources and functions of dietary polyphenols for prevention and treatment of chronic diseases",
+    "authors": "Wei Li, Hai-Hong Chen, Bing Xu, Yi Wang, Can Yang Zhang, Yong Cao, Xin-Hui Xing*",
+    "journal": "Journal of Future Foods",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1016/j.jfutfo.2023.03.001"
+  },
+  {
+    "year": 2022,
+    "title": "CRISPR–Cas12-based field-deployable system for rapid detection of synthetic DNA sequence of the monkeypox virus genome",
+    "authors": "Qun Chen, Ijaz Gul*, Changyue Liu, Zhengyang Lei, Xingyu Li, Muhammad A. Raheem, Qian He, Zhang Haihui, Edwin Leeansyah, Can Yang Zhang, Vijay Pandey, Ke Du, Peiwu Qin*",
+    "journal": "Journal of Medical Virology",
+    "type": "Journal Article",
+    "note": "ESI Highly Cited Paper",
+    "url": " https://doi.org/10.1002/jmv.28385"
+  },
+  {
+    "year": 2022,
+    "title": "Living Leukocyte-Based Drug Delivery Systems",
+    "authors": "Yaxin Chen, Duotian Qin, Jianhua Zou, Xiaobin Li, Xin Dong Guo, Yi Tang, Chuang Liu, Wei Chen, Na Kong, Can Yang Zhang*, Wei Tao*",
+    "journal": "Advanced Materials",
+    "type": "Journal Article",
+    "note": "Front Cover Article, ESI Highly Cited Paper",
+    "url": " https://doi.org/10.1002/adma.202207787"
+  },
+  {
+    "year": 2022,
+    "title": "TiO2-based Nanosystem for Cancer Therapy and Antimicrobial Treatment: A Review",
+    "authors": "Jinping Shi#, Juan Li#, Yan Wang, Can Yang Zhang*",
+    "journal": "Chemical Engineering Journal",
+    "type": "Journal Article",
+    "note": "ESI highly cited paper",
+    "url": "https://doi.org/10.1016/j.cej.2021.133714"
+  },
+  {
+    "year": 2022,
+    "title": "Graphene-based nanomaterials for cancer therapy and anti-infections",
+    "authors": "Yan Wang#, Juan Li#, Xiaobin Li, Jinping Shi, Zhaotan Jiang, Can Yang Zhang*",
+    "journal": "Bioactive Materials",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1016/j.bioactmat.2022.01.045"
+  },
+  {
+    "year": 2022,
+    "title": "Gut lumen-targeted oral delivery system for bioactive agents to regulate gut microbiome",
+    "authors": "Junyu Liu, Xiaobin Li, Xiaopeng Zhang, Runming Wang, Sanyang Han, Peiwu Qin*, Xin-Hui Xing, Can Yang Zhang*",
+    "journal": "Journal of Future Foods",
+    "type": "Journal Article",
+    "url": "https://www.sciencedirect.com/science/article/pii/S2772566922000568"
+  },
+  {
+    "year": 2022,
+    "title": "Conductive Microneedle Patch with Electricity-Triggered Drug Release Performance for Atopic Dermatitis Treatment",
+    "authors": "Yuan Yang, Bo Zhi Chen, Xiao Peng Zhang, Hui Zheng, Zhou Li*, Can Yang Zhang*, Xin Dong Guo*",
+    "journal": "ACS Applied Materials & Interfaces",
+    "type": "Journal Article",
+    "url": "https://pubs.acs.org/doi/abs/10.1021/acsami.2c05952"
+  },
+  {
+    "year": 2022,
+    "title": "An update on biomaterials as microneedle matrixes for biomedical applications",
+    "authors": "Xiao Peng Zhang, Yu Ting He, Wen Xuan Li, Bo Zhi Chen*, Can Yang Zhang*, Yong Cui*, Xin Dong Guo*",
+    "journal": "Journal of Materials Chemistry B",
+    "type": "Journal Article",
+    "url": "https://pubs.rsc.org/en/content/articlehtml/2022/tb/d2tb00905f"
+  },
+  {
+    "year": 2022,
+    "title": "An update on microneedle-based systems for diabetes",
+    "authors": "Wen Xuan Li, Xiao Peng Zhang, Bo Zhi Chen, Wen Min Fei, Yong Cui*, Can Yang Zhang*, Xin Dong Guo*",
+    "journal": "Drug Delivery and Translational Research",
+    "type": "Journal Article",
+    "url": "https://link.springer.com/article/10.1007/s13346-021-01113-2"
+  },
+  {
+    "year": 2022,
+    "title": "AI-boosted CRISPR-Cas13a and total internal reflection fluorescence microscopy system for SARS-CoV-2 detection",
+    "authors": "Zhang Likun, Lei Zhengyang, Xiao Chufan, Du Zhicheng, Jiang Chenyao, Yuan Xi, Hu Qiuyue, Zhai Shiyao, Xu Lulu, Liu Changyue, Zhong Xiaoyun, Guan Haifei, Hassan Muhammad, Gul Ijaz, Pandey Vijay, Xing Xinhui, Can Yang Zhang*, He Qian*, Qin Peiwu*",
+    "journal": "Frontiers in Sensors",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.3389/fsens.2022.1015223"
+  },
+  {
+    "year": 2022,
+    "title": "Current and Perspective Sensing Methods for Monkeypox Virus",
+    "authors": "Gul, Ijaz, Changyue Liu, Xi Yuan, Zhicheng Du, Shiyao Zhai, Zhengyang Lei, Qun Chen, Muhammad Akmal Raheem, Qian He, Qiuyue Hu, Chufan Xiao, Zhang Haihui, Runming Wang, Sanyang Han, Ke Du, Dongmei Yu*, Can Yang Zhang*, Peiwu Qin*",
+    "journal": "Bioengineering",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.3390/bioengineering9100571"
+  },
+  {
+    "year": 2022,
+    "title": "口服多糖靶向药物递送体系在结肠疾病治疗中的应用研究进展",
+    "authors": "黄龙, 曾文, 徐冰, 张灿阳, 马少华, 张翀, 王怡*, 邢新会*",
+    "journal": "药学学报",
+    "type": "Journal Article",
+    "url": "https://kns.cnki.net/kcms/detail/11.2163.R.20220128.1522.001.html"
+  },
+  {
+    "year": 2022,
+    "title": "RCMNet: A deep learning model assists CAR-T therapy for leukemia",
+    "authors": "Ruitao Zhang, Xueying Han, Zhengyang Lei, Chenyao Jiang, Ijaz Gul, Qiuyue Hu, Shiyao Zhai, Hong Liu, Lijin Lian, Ying Liu, Yongbing Zhang, Yuhan Dong, Can Yang Zhang, Tsz Kwan Lam, Yuxing Han, Dongmei Yu*, Jin Zhou*, Peiwu Qin*",
+    "journal": "Computers in Biology and Medicine",
+    "type": "Journal Article",
+    "url": " https://doi.org/10.1016/j.compbiomed.2022.106084"
+  },
+  {
+    "year": 2022,
+    "title": "Angiotensin-Converting Enzyme 2-Based Biosensing Modalities and Devices for Coronavirus Detection",
+    "authors": "Gul, Ijaz, Shiyao Zhai, Xiaoyun Zhong, Qun Chen, Xi Yuan, Zhicheng Du, Zhenglin Chen, Muhammad Akmal Raheem, Lin Deng, Edwin Leeansyah, Can Yang Zhang, Dongmei Yu*, Peiwu Qin*",
+    "journal": "Biosensors",
+    "type": "Journal Article",
+    "url": " https://doi.org/10.3390/bios12110984"
+  },
+  {
+    "year": 2022,
+    "title": "Detection of Frog virus 3 via the system integrating RPA-CRISPR/Cas12a-SPM with deep learning",
+    "authors": "Zhengyang Lei, Lijin Lian, Likun Zhang, Jiazhang Wei, Changyue Liu, Hong Liu, Ying Liu, Shiyao Zhai, Xiaoyun Zhong, Ijaz Gul, Xi Yuan, Yuhan Dong, Haihui Zhang, Chuhui Wang, Can Yang Zhang, Xinhui Xing, Dongmei Yu*, Qian He*, Peiwu Qin*",
+    "journal": "bioRxiv",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1101/2022.08.22.504785"
+  },
+  {
+    "year": 2022,
+    "title": "Neuro-Symbolic Learning: Principles and Applications in Ophthalmology",
+    "authors": "Muhammad Hassan, Haifei Guan, Aikaterini Melliou, Yuqi Wang, Qianhui Sun, Sen Zeng, Wen Liang, Yiwei Zhang, Ziheng Zhang, Qiuyue Hu, Yang Liu, Shunkai Shi, Lin An, Shuyue Ma, Ijaz Gul, Muhammad Akmal Rahee, Zhou You, Can Yang Zhang, Vijay Kumar Pandey, Yuxing Han, Yongbing Zhang, Ming Xu, Qiming Huang, Jiefu Tan, Qi Xing, Peiwu Qin*, Dongmei Yu*",
+    "journal": "arXiv preprint",
+    "type": "Journal Article",
+    "url": "https://arxiv.org/abs/2208.00374"
+  },
+  {
+    "year": 2022,
+    "title": "Therapeutic effect of ketogenic diet treatment on type 2 diabetes",
+    "authors": "Fang Li, Yang Shen, Qun Chen, Xingyu Li, Hongnan Yang, Can Yang Zhang, Jinjun Lin, Zhicheng Du, Chenyao Jiang, Chengming Yang, Dongmei Yu*, Peiwu Qin*",
+    "journal": "Journal of Future Foods",
+    "type": "Journal Article",
+    "url": "https://www.sciencedirect.com/science/article/pii/S2772566922000179"
+  },
+  {
+    "year": 2021,
+    "title": "Mechanism studies on the cellular internalization of nanoparticles using computer simulations: A review",
+    "authors": "Yun Hao Feng, Bo Zhi Chen, Wen Min Fei, Yong Cui, Can Yang Zhang*, Xin Dong Guo*",
+    "journal": "AIChE Journal",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1002/aic.17507"
+  },
+  {
+    "year": 2020,
+    "title": "Surface modification of monolayer MoS2 by baking for biomedical application",
+    "authors": "Yan Wang, Yuanjun Ma, Jinping Shi, Xianyu Yan, Jun Luo, Huilong Zhu, Kunpeng Jia*, Juan Li*, Can Yang Zhang*",
+    "journal": "Frontiers in Chemistry",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.3389/fchem.2020.00741"
+  },
+  {
+    "year": 2020,
+    "title": "TME Responsive Polyprodrug Micelles for Multistage Delivery of Doxorubicin with Improved Cancer Therapeutic Efficacy in Rodents",
+    "authors": "Shuguang Zhang, Peiyao Zhu, Jiayuan He, Siyuan Dong, Peiwen Li, Can Yang Zhang*, Teng Ma*",
+    "journal": "Advanced Healthcare Materials",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1002/adhm.202000387"
+  },
+  {
+    "year": 2020,
+    "title": "Recent advances in MoS2-basedphotothermal therapy for cancer and infectious disease treatment",
+    "authors": "Jinping Shi#, Juan Li#*, Yan Wang, Jingjing Cheng, Can Yang Zhang*",
+    "journal": "Journal of Materials Chemistry B",
+    "type": "Journal Article",
+    "note": "Cover Article",
+    "url": "https://doi.org/10.1039/D0TB01018A"
+  },
+  {
+    "year": 2019,
+    "title": "Nanoparticle-induced neutrophil apoptosis increases survival in sepsis and alleviates neurological damage in stroke",
+    "authors": "Can Yang Zhang#, Xinyue Dong, Jin Gao, Wenjing Lin, Ze Liu, Zhenjia Wang*",
+    "journal": "Science Advances",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1126/sciadv.aax7964"
+  },
+  {
+    "year": 2019,
+    "title": "pH-Responsive Nanoparticles Targeted to Lungs for Improved Therapy of Acute Lung Inflammation/Injury",
+    "authors": "Can Yang Zhang#, Wenjing Lin, Jin Gao, Xutong Shi, Maryam Davaritouchaee, Amy Nielsen, Rock Mancini, Zhenjia Wang*",
+    "journal": "ACS Applied Materials & Interfaces",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1021/acsami.9b04051"
+  },
+  {
+    "year": 2019,
+    "title": "PEG-Detachable Polymeric Micelles Self-Assembled from Amphiphilic Copolymers for Tumor-Acidity-Triggered Drug Delivery and Controlled Release",
+    "authors": "Mengzhen Xu#, Can Yang Zhang#, Junguang Wu, Huige Zhou, Ru Bai, Ziyi Shen, Ying Liu*, and Jing Liu*",
+    "journal": "ACS Applied Materials & Interfaces",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1021/acsami.8b13059"
+  },
+  {
+    "year": 2019,
+    "title": "Recent Advances in Photodynamic Therapy for Cancer and Infectious Diseases",
+    "authors": "Xutong Shi, Can Yang Zhang*, Jin Gao, Zhenjia Wang*",
+    "journal": "Wiley Interdisciplinary Reviews-Nanomedicine and Nanobiotechnology",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1002/wnan.1560"
+  },
+  {
+    "year": 2019,
+    "title": "Dual pH/Redox-Responsive Mixed Polymeric Micelles for Anticancer Drug Delivery and Controlled Release",
+    "authors": "Yongle Luo#, Xujun Yin#, Xi Yin#, Anqi Chen#, Lili Zhao#, Gang Zhang#, Wenbo Liao#, Xiangxuan Huang*, Juan Li and Can Yang Zhang*",
+    "journal": "Pharmaceutics",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.3390/pharmaceutics11040176"
+  },
+  {
+    "year": 2019,
+    "title": "Smart pH-responsive cationic polymeric micelles for programmed oral delivery of insulin",
+    "authors": "Wen Yao Hu, Zhi Min Wu*, Qian Qian Yang, Yue Jin Liu, Juan Li, Can Yang Zhang*",
+    "journal": "Colloids and Surfaces B: Biointerfaces",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1016/j.colsurfb.2019.110443"
+  },
+  {
+    "year": 2019,
+    "title": "Mesoscale Simulations of pH-Responsive Polymeric Micelles for Oral Drug Delivery",
+    "authors": "Zhimin Wu*, Manzhen Duan, Di Xiong, Can Yang Zhang*",
+    "journal": "Pharmaceutics",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.3390/pharmaceutics11120620"
+  },
+  {
+    "year": 2019,
+    "title": "Neutrophil Membrane-Derived Nanovesicles Alleviate Inflammation to Protect Mouse Brain Injury from Ischemic Stroke",
+    "authors": "Xinyue Dong, Jin Gao, Can Yang Zhang, Christopher Hayworth, Marcos Frank, Zhenjia Wang*",
+    "journal": "ACS Nano",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1021/acsnano.8b06572"
+  },
+  {
+    "year": 2019,
+    "title": "Fabrication of dual pH/redox-responsive lipid-polymer hybrid nanoparticles for anticancer drug delivery and controlled release",
+    "authors": "Wanfu Men, Wenke Liu, Peiyao Zhu, Siyuan Dong, Shulei Gong, Can Yang Zhang*, Shuguang Zhang*",
+    "journal": "International Journal of Nanomedicine",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.2147/IJN.S226798"
+  },
+  {
+    "year": 2019,
+    "title": "Targeting of Nanotherapeutics to Infection Sites for Antimicrobial Therapy",
+    "authors": "Xinyue Dong#, Can Yang Zhang#, Jin Gao#, Zhenjia Wang*",
+    "journal": "Advanced Therapeutics",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1002/adtp.201900095"
+  },
+  {
+    "year": 2018,
+    "title": "Bioresponsive Nanoparticles Targeted to Infectious Microenvironments for Sepsis Management",
+    "authors": "Can Yang Zhang#, Jin Gao, Zhenjia Wang *",
+    "journal": "Advanced Materials",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1002/adma.201803618"
+  },
+  {
+    "year": 2018,
+    "title": "Dual redox/pH-responsive hybrid polymer-lipid composites: Synthesis, preparation, characterization and application in drug delivery with enhanced therapeutic efficacy",
+    "authors": "Juan Li, Yuan Jun Ma, Yan Wang, Bo Zhi Chen, Xin Dong Guo*, Can Yang Zhang*",
+    "journal": "Chemical Engineering Journal",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1016/j.cej.2018.02.055"
+  },
+  {
+    "year": 2018,
+    "title": "Effect of humidity on mechanical properties of dissolving microneedles for transdermal drug delivery",
+    "authors": "Qi Lei Wang, Jia Wei Ren, Bo Zhi Chen, Xuan Jin, Can Yang Zhang*, Xin Dong Guo*",
+    "journal": "Journal of Industrial and Engineering Chemistry",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1016/j.jiec.2017.10.030"
+  },
+  {
+    "year": 2018,
+    "title": "A pH-responsive prodrug delivery system self-assembled from acid-labile doxorubicin-conjugated amphiphilic pH-sensitive block copolymers",
+    "authors": "Xiangxuan Huang, Wenbo Liao, Zhihao Xie, Deshi Chen, Can Yang Zhang*",
+    "journal": "Materials Science & Engineering C-Materials for Biological Applications",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1016/j.msec.2018.04.036"
+  },
+  {
+    "year": 2018,
+    "title": "Neutrophil-Based Drug Delivery Systems",
+    "authors": "Dafeng Chu, Xinyue Dong, Xutong Shi, Can Yang Zhang, and Zhenjia Wang*",
+    "journal": "Advanced Materials",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1002/adma.201706245"
+  },
+  {
+    "year": 2017,
+    "title": "Polymeric micelles self-assembled from amphiphilic polymers with twin disulfides used as siRNA carriers to enhance the transfection",
+    "authors": "Can Yang Zhang, Shiyuan Peng, Bin Zhao, Wenji Luo, Lijuan Zhang*",
+    "journal": "Materials Science & Engineering C-Materials for Biological Applications",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1016/j.msec.2017.04.039"
+  },
+  {
+    "year": 2017,
+    "title": "pH-sensitive micelles self-assembled from polymer brush (PAE-g-cholesterol)-b-PEG-b-(PAE-g-cholesterol) for anticancer drug delivery and controlled release",
+    "authors": "Xiangxuan Huang, Wenbo Liao, Gang Zhang, Shimin Kang, Can Yang Zhang*",
+    "journal": "International Journal of Nanomedicine",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.2147/IJN.S130037"
+  },
+  {
+    "year": 2017,
+    "title": "Fabrication of PDEAEMA-based pH-responsive mixed micelles for application in controlled doxorubicin release",
+    "authors": "Chufen Yang, Jiayu Xiao, Weifeng Xiao, Wenjing Lin, Jingrui Chen, Quan Chen, Lijuan Zhang, Can Yang Zhang and Jianwei Guo*",
+    "journal": "RSC Advances",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1039/C7RA04358A"
+  },
+  {
+    "year": "Before 2017",
+    "title": "Synthesis and evaluation of cholesterol-grafted PEGylated peptides with pH-triggered property as novel drug carriers for cancer chemotherapy",
+    "authors": "Can Yang Zhang, Quan Chen, Wen Sheng Wu, Xin Dong Guo, Cheng Zhi Cai, Li Juan Zhang*",
+    "journal": "Colloids and Surfaces B: Biointerfaces",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1016/j.colsurfb.2016.02.025"
+  },
+  {
+    "year": "Before 2017",
+    "title": "Compatibility studies between amphiphilic pH-sensitive polymer and hydrophobic drug using multiscale simulations",
+    "authors": "Yan Wang, Jia Wei Ren, Can Yang Zhang, Meng Chan He, Zhi Min Wu*, Xin Dong Guo*",
+    "journal": "RSC Advances",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1039/C6RA15950H"
+  },
+  {
+    "year": "Before 2017",
+    "title": "Mesoscale Simulations and Experimental Studies of pH-Sensitive Micelles for Controlled Drug Delivery",
+    "authors": "Yan Wang, Qiu Yu Li, Xu Bo Liu, Can Yang Zhang*, Zhi Min Wu*, and Xin Dong Guo*",
+    "journal": "ACS Applied Materials & Interfaces",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1021/acsami.5b08366"
+  },
+  {
+    "year": "Before 2017",
+    "title": "Mesoscopic simulation studies on the formation mechanism of drug loaded polymeric micelles",
+    "authors": "Yan Wang, Dan Dan Zhu, Jian Zhou, Qi Lei Wang, Can Yang Zhang, Yue Jin Liu, Zhi Min Wu*, Xin Dong Guo*",
+    "journal": "Colloids and Surfaces B: Biointerfaces",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1016/j.colsurfb.2015.09.049"
+  },
+  {
+    "year": "Before 2017",
+    "title": "Self-assembled amphiphilic sequence-defined PEGylated three-arm oligo (ethanamino) amides via NCL reaction for drug delivery: Impact of building blocks on controlled release",
+    "authors": "Can Yang Zhang, Christina Troiber, Bin Zhao, Ernst Wagner*, and Li Juan Zhang*",
+    "journal": "Journal of Controlled Release",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1016/j.jconrel.2015.05.020"
+  },
+  {
+    "year": "Before 2017",
+    "title": "Cross-scale method for quantitative structure-property relationship of drug-loaded polymeric micelles",
+    "authors": "Wensheng Wu, Can Yang Zhang, Xiuxi, Li, Xiao Xu, Lijuan Zhang*",
+    "journal": "Journal of Chemical Industry and Engineering",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.11949/j.issn.0438-1157.20141557"
+  },
+  {
+    "year": "Before 2017",
+    "title": "Quantitative structure-property relationship (QSPR) modeling of drug-loaded polymeric micelle via genetic function approximation",
+    "authors": "Wen Sheng Wu#, Can Yang Zhang#, Wen Jing Lin, Quan Chen, Xin Dong Guo, Yu Qian, and Li Juan ZhangCan Yang Zhang*",
+    "journal": "PLOS ONE",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1371/journal.pone.0119575"
+  },
+  {
+    "year": "Before 2017",
+    "title": "Ernst Wagner*. Native chemical ligation for conversion of sequence-defined oligomers into targeted pDNA and siRNA carriers",
+    "authors": "Can Yang Zhang, Petra Kos, Katharina Müller, Waldemar Schrimpf, Christina Troiber, Ulrich Lächelt, Claudia Scholz, Don C. Lamb",
+    "journal": "Journal of Controlled Release",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1016/j.jconrel.2014.02.015"
+  },
+  {
+    "year": "Before 2017",
+    "title": "pH-sensitive amphiphilic copolymer brush Chol-g-P(HEMA-co-DEAEMA)-b-PPEGMA: synthesis and self-assembled micelles for controlled anti-cancer drug release",
+    "authors": "Can Yang Zhang, Wen Sheng Wu, Na Yao, Bin Zhao, Li Juan Zhang*",
+    "journal": "RSC Advances",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1039/C4RA06413E"
+  },
+  {
+    "year": "Before 2017",
+    "title": "Self-assembled micelles based on pH-sensitive PAE-g-MPEG-Cholesterol block copolymer for anticancer drug delivery",
+    "authors": "Can Yang Zhang, Di Xiong, Yao Sun, Bin Zhao, Wen Jing Lin, Li Juan Zhang*",
+    "journal": "International Journal of Nanomedicine",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.2147/IJN.S69493"
+  },
+  {
+    "year": "Before 2017",
+    "title": "pH-sensitive micelles self-assembled from multi-arm star triblock co-polymers poly(ε-caprolactone)-b-poly(2-(diethylamino)ethyl methacrylate)-b-poly(poly(ethylene glycol) methyl ether methacrylate) for controlled anticancer drug delivery",
+    "authors": "You Qiang Yang, Bin Zhao, Zhen Dong Li, Wen Jing Lin, Can Yang Zhang, Xin Dong Guo, Ju Fang Wang, Li Juan Zhang*",
+    "journal": "Acta Biomaterialia",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1016/j.actbio.2013.05.006"
+  },
+  {
+    "year": "Before 2017",
+    "title": "Self-assembled pH-responsive MPEG-b-(PLA-co-PAE) block copolymer micelles for anticancer drug delivery",
+    "authors": "Can Yang Zhang, You Qiang Yang, Tu Xiong Huang, Bin Zhao, Xin Dong Guo, Ju Fang Wang, Li Juan Zhang*",
+    "journal": "Biomaterials",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1016/j.biomaterials.2012.05.025"
+  },
+  {
+    "year": "Before 2017",
+    "title": "Can drug molecules diffuse into the core of micelles?",
+    "authors": "Xin Dong Guo, Yu Qian, Can Yang Zhang, Shu Yu Nie and Li Juan Zhang*",
+    "journal": "Soft Matter",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1039/C2SM26200B"
+  },
+  {
+    "year": "Before 2017",
+    "title": "Amphiphilic copolymer brush with random pH-sensitive/hydrophobic structure: synthesis and self-assembled micelles for sustained drug delivery",
+    "authors": "You Qiang Yang, Xin Dong Guo, Wen Jing Lin, Li Juan Zhang*, Can Yang Zhang, Yu Qian",
+    "journal": "Soft Matter",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1039/C1SM06314F"
+  },
+  {
+    "year": "Before 2017",
+    "title": "ARGET ATRP与ROP结合制备pH响应两亲性聚合物分子刷及其自组装研究",
+    "authors": "杨友强, 孙清清, 张灿阳, 郭新东, 章莉娟*, 文秀芳",
+    "journal": "化学学报",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.6023/A1108302"
+  },
+  {
+    "year": "Before 2017",
+    "title": "Dissipative particle dynamics study on aggregation of MPEG-PAE-PLA block polymer micelles loading doxorubicine",
+    "authors": "Chufen Yang, Yao Sun, Lijuan Zhang*, Guodian Zhu, Can Yang Zhang, Yu Qian",
+    "journal": "Chinese Journal of Chemistry",
+    "type": "Journal Article",
+    "url": "https://doi.org/10.1002/cjoc.201200629"
+  }
+  ]
+});
