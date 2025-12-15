@@ -1,0 +1,84 @@
+{
+  "siteLogo": {
+    "text": "ZhangLab",
+    "image": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@masterZhangLab/lablogo/lablogo.92qkyfx2ma.webp"
+  },
+  "menuItems": [
+    {
+      "label": "Research",
+      "number": "01",
+      "path": "/research"
+    },
+    {
+      "label": "Publications",
+      "number": "02",
+      "path": "/publications"
+    },
+    {
+      "label": "Members",
+      "number": "03",
+      "path": "/members"
+    },
+    {
+      "label": "News",
+      "number": "04",
+      "path": "/news"
+    },
+    {
+      "label": "Contact",
+      "number": "05",
+      "path": "/contact"
+    }
+  ],
+  "footerLinks": [
+    {
+      "label": "Shenzhen International Graduate School",
+      "url": "https://www.sigs.tsinghua.edu.cn/",
+      "img": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@masterEmblem/image.3rbocwejis.webp"
+    },
+    {
+      "label": "©2025 The Zhang Lab"
+    }
+  ],
+  "hero": {
+    "slides": [
+      {
+        "image": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@masterZhangLab/hero/hero1.83ahvm95vu.webp",
+        "title": "Zhang Lab",
+        "description": "live-cell pharmaceutical engineering"
+      },
+      {
+        "image": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@masterZhangLab/hero/hero2.5xb39uh98l.webp",
+        "title": "Innovative Research",
+        "description": "Biomaterials & Drug Delivery"
+      },
+      {
+        "image": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@masterZhangLab/hero/hero3.b9cvztrn4.webp",
+        "title": "Cutting-Edge Technology",
+        "description": "Advanced Nanomaterials & Nanomedicine"
+      }
+    ],
+    "backgroundImage": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@masterZhangLab/hero/hero.5mo9bw58uc.webp"
+  },
+  "homeContent": {
+    "sectionTitle": "Zhang<br>Lab",
+    "paragraphs": [
+      "The Zhang Research Group at <a href=\"https://ibhe.sigs.tsinghua.edu.cn/\" target=\"_blank\" rel=\"noopener noreferrer\">Institute of Biopharmaceutical and Health Engineering (iBHE)</a> at <a href=\"https://www.tsinghua.edu.cn/\" target=\"_blank\" rel=\"noopener noreferrer\">Tsinghua University</a> is focused on the <span>live-cell pharmaceutical engineering</span>, with a major emphasis on the design and preparation of functional biomaterials and drug delivery technology for complementary interactions to generate a <em>\"smart\"</em> system, interesting in neutrophil engneering, surface engineering of bacteria, and AI for formulation."
+    ]
+  },
+  "announcements": [
+    {
+      "type": "publication",
+      "date": "November 2025",
+      "title": "Dissolved bubble microneedle patches for co-delivery of hydrophobic and hydrophilic drugs to improve acne vulgaris therapy",
+      "journal": "Microsystems & Nanoengineering",
+      "authors": "Xiaopeng Zhang, Xiaotong Zhao, Yiting Li, Wanyue Zhang, Yuanyuan Chen, Haidong Jia, Zhibing Zhang, Can Yang Zhang*",
+      "journalCover": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@masterZhangLab/s41378-025-01079-y.102mbjocby.webp",
+      "link": {
+        "text": "Read paper",
+        "url": "https://doi.org/10.1038/s41378-025-01079-y",
+        "external": true
+      }
+    }
+  ]
+}

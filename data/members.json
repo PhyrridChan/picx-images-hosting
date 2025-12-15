@@ -1,0 +1,434 @@
+{
+  "hero": {},
+  "content": {
+    "sectionTitle": "Our<br>Team"
+  },
+  "pi": {
+    "name": "Can Yang Zhang, Ph.D.",
+    "position": "Associate Professor, IBHE(Institute of Biopharmaceutical and Health Engineering), SIGS(Shenzhen International Graduate School), Tsinghua University, China",
+    "image": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@masterZhangLab/members/pi.5xb2zppbnt.webp",
+    "email": "zhang.canyang@sz.tsinghua.edu.cn",
+    "editorialBoards": [
+      "Executive Editor-in-Chief of Health Engineering",
+      "Editorial Advisory Board Member of Journal of Future Foods",
+      "Academic Editor of Exploration"
+    ],
+    "imageScale": "0.8",
+    "intro": "In order to diagnose and treat many diseases such as cancer, inflammation and bacteria-induced infections, etc., drug delivery systems (DDSs) based on stimuli-responsive biomaterials with effective delivery strategy are attracted widely more and more attention and in-depth explored in recent years. DDSs epitomize multidisciplinary research including chemistry, material, biology, pharmacy and physics, which is central to innovation in modern bio-nano-technology. My research is focused on designing and generating multifunctional bioengineered stimuli-responsive biomaterials-based biomedical devices (nanomedicine) and strategies used to efficiently and effectively prevent and treat some diseases (e.g. cancer, sepsis, colorectal diseases) based on the understanding of molecular mechanism regulating the interactions between therapeutic nanoparticles and biological systems “in vivo”.",
+    "researchInterests": [
+      "Design and synthesis of stimuli-responsive biomaterials library",
+      "Development of immune cell-mediated drug delivery system",
+      "Development of polycationic polymer-based therapeutics for antimicrobial resistance",
+      "Development of multifunctional oral delivery system for health engineering",
+      "Development of microneedle patch for transdermal drug delivery and skin health engineering"
+    ],
+    "detailedIntro": "I am now working at Shenzhen International Graduate School at Tsinghua University as an Assistant Professor/Principal Investigator. I have gathered unique expertise combining chemistry and chemical engineering (Ph.D. at South China University of Technology, China, Prof. Lijuan Zhang and Prof. Yu Qian), pharmacy and gene therapy (visiting Ph.D. student at Ludwig-Maximilians-Universität München, Germany, Prof. Ernst Wagner), pharmaceutical biology and biotechnology (Assistant Professor at National Center for Nanoscience and Technology, China), cell culture, animal model and immunology (Postdoctoral Associate/Research Associate at Washington State University, United States, Prof. Zhenjia Wang), bio-nano-technology and layer-by-layer technology (Postdoctoral Associate at Singapore-MIT Alliance for Research and Technology, Singapore/United States, Prof. Paula Hammond). I believe that there are many interesting ideas would be promoted based on my experience and passion (self motivation, organization and time management skills). I also have rich experience in writing proposal for external grants and publishing papers. I will try my best to establish the team and complete my research/teaching work. My goal is to develop efficient and effective nanomedicine, nano-food and strategy for the treatment of diseases.",
+    "education": [
+      "2021-Today Assistant Professor, Shenzhen International Graduate School, Tsinghua University, China",
+      "2019-2020 Postdoctoral Research Associate, Singapore-MIT Alliance for Research and Technology, Singapore",
+      "2016-2019 Postdoctoral Research Associate/Research Associate, Washington State University, USA",
+      "2014-2015 Assistant Professor, National Center for Nanoscience and Technology, China",
+      "2009-2014 Ph.D. in Chemical Engineering, South China University of Technology, China",
+      "2012-2013 Visiting Ph.D. in Biopharmaceutical Biotechnology, Ludwig-Maximilians-Universität München, Germany",
+      "2005-2009 B.E. in Chemical Engineering, Southwest University for Nationalities, China"
+    ],
+    "awards": [
+      "2023 “Pearl River Talents Program”, Guangdong Province, China",
+      "2023 Academic Editor of Exploration",
+      "2023 Committee Member of Recombinant Drugs Branch in China Biochemical Pharmaceutical Industry Association",
+      "2022 Member of Expert Pool of Shenzhen National High-Tech Industry Innovation Center",
+      "2022 Member of Expert Pool of Shenzhen Agricultural Science & Technology Promotion Center",
+      "2021 Editorial Advisory Board Member of Journal of Future Foods",
+      "2021 “Overseas High-Level Talents Program”, Shenzhen City, China",
+      "2014 “Kingfa Science & Technology Scholarship”, SCUT, China",
+      "2013 The First Prize of Innovation Foundation for Ph.D. Student, SCUT, China",
+      "2012 The National Scholarship, Ministry of Education of the People’s Republic of China",
+      "2012 The Oversea Study Program of Guangzhou Elite Project, Guangzhou Provincial Government",
+      "2012 The Second Prize of Innovation Foundation for Ph.D. Student, SCUT, China",
+      "2011 The First Prize of Merit Scholarship, SCUT, China",
+      "2010 The Winning Prize, National Undergraduate Entrepreneurship Competition, Soochow"
+    ]
+  },
+  "groups": [
+    {
+      "title": "Postdoctoral Fellows",
+      "members": [
+        {
+          "name": "Dr. Xiaopeng ZHANG PhD",
+          "image": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@masterZhangLab/members/zxp2.2rvl63ys3i.webp",
+          "joinDate": "2022.1",
+          "tags": [
+            "Microneedles",
+            "Drug Delivery"
+          ],
+          "researchText": "Preparation of polymer microneedles and development of soluble insulin microneedles",
+          "description": "I was born in Ningxia province and received my Ph.D. degree from Beijing University of Chemical Technology (BUCT) in December 2021. My Ph.D. study mainly focuses on the design, fabrication, and stability studies of polymer microneedles. Now, I'm working as a post-doctoral student in Tsinghua Shenzhen International Graduate School. My research interests include nanobiotechnology, controlled drug delivery and microneedle for beauty or treatment of diseases such as cancer and diabetes.",
+          "imageScale": "1.2"
+        },
+        {
+          "name": "Dr. Zohaib Hafiz Muhammad PhD",
+          "image": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@masterZhangLab/members/Zohaib-Hafiz-Muhammad2.45i4a59u4e.webp",
+          "joinDate": "2025.6",
+          "tags": [
+            "Editorial Board manager of Majestic Journal of American Chemical Society"
+          ],
+          "researchText": "Design and application of coordination polymers and MOFs in drug delivery, molecular recognition, nucleotide structures, biomedical systems, and computational studies.",
+          "description": "I was born in Rawalpindi, Pakistan and received my Ph.D. degree from Beijing Institute of Technology, China in March 2025, and am now working as a postdoctoral fellow at Tsinghua Shenzhen International Graduate School. I am working on coordination polymers and their crystal growth and design, and their various applications: drug delivery systems, amino acid separation and recognition, chiral drug recognition, the water helix structure of nucleotide coordination polymers, and metal-organic frameworks. I am also working on anticancer activity, antibacterial and antimicrobial peptide drug delivery systems, as well as MD simulations and theoretical calculations.",
+          "imagePosition": "5%",
+          "imageScale": "1.1"
+        },
+        {
+          "name": "Dr. Anna LI PhD",
+          "image": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@masterZhangLab/members/lan.2vf73trut7.webp",
+          "joinDate": "2025.7",
+          "tags": [
+            "Microneedles",
+            "Psoriasis Therapy"
+          ],
+          "researchText": "Natural small-molecule drug modification, dissolving microneedle patches, and their application in psoriasis therapy",
+          "description": "I was born in Quanzhou, Fujian, and received my PhD from Huaqiao University in June 2025. My doctoral research focused on natural small-molecule drug modification, dissolving microneedle patches, and their application in psoriasis therapy. Now, l'm working as a post-doctoralstudent in Tsinghua Shenzhen International Graduate School. My current research interests include responsive nano-drug delivery systems and inflammatory skin diseases.",
+          "imagePosition": "-5%",
+          "imageScale": "1.1"
+        },
+        {
+          "name": "Dr. Jin XIE PhD",
+          "image": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@masterZhangLab/members/xj.58htl15nzw.webp",
+          "joinDate": "2025.10",
+          "tags": [
+            "LbL Nanoparticles",
+            "Targeted Drug Delivery"
+          ],
+          "researchText": "Polysaccharide–protein interactions / Layer-by-layer (LbL) nanoparticles for targeted drug delivery",
+          "description": "I was born in Hezhou, Guangxi, and received my Ph.D. from the Université de Liège (Belgium) in March 2025. My doctoral research focused on polysaccharide–protein gel formation and texture control, as well as fruit and vegetable drying technologies. I am currently a postdoctoral researcher at Tsinghua Shenzhen International Graduate School. My research interests include the design of layer-by-layer (LbL) nanoparticles and targeted drug delivery for the treatment of cancer, inflammation, and acute infections.",
+          "imagePosition": "-5%",
+          "imageScale": "1.1"
+        }
+      ]
+    },
+    {
+      "title": "PhD Candidates",
+      "members": [
+        {
+          "name": "Junyu LIU",
+          "image": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@masterZhangLab/members/ljy2.6t7kkig2bg.webp",
+          "joinDate": "2021.9",
+          "tags": [
+            "Metabolic Diseases",
+            "Animal Models",
+            "Pharmacokinetic Effects",
+            "Pu'er tea"
+          ],
+          "researchText": "Efficacy and mechanism of natural products from food sources to improve glucose and lipid metabolism and construct related delivery systems.",
+          "description": "My research direction is the efficacy and mechanism of natural products from food sources to improve glucose and lipid metabolism and construct related delivery systems. My research fields involve oral delivery system construction, the efficacy and mechanism of natural products in vitro and in vivo, bioinformatics analysis, etc. My cumulative IF of papers published as the first author or co-first author is 23.208.",
+          "imagePosition": "5%",
+          "imageScale": "1.1"
+        },
+        {
+          "name": "Xiaobin LI",
+          "image": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@masterZhangLab/members/lxb2.3gouq4zi02.webp",
+          "joinDate": "2022.9",
+          "tags": [
+            "Poly (β-amino ester)",
+            "Drug Delivery",
+            "Cancer Therapy"
+          ],
+          "researchText": "Fabrication and function of pH-sensitive poly (β-amino ester) (PAE) and developing PAE-based targeted drug delivery systems.",
+          "description": "My research focuses on the fabrication and function of pH-sensitive poly (β-amino ester) (PAE) and developing PAE-based targeted drug delivery systems via the bioengineering strategy to treat cancers and manage inflammation effectively with reduced side effects.",
+          "imagePosition": "15%",
+          "imageScale": "1.6"
+        },
+        {
+          "name": "Yilin ZHENG",
+          "image": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@masterZhangLab/members/zyl1.1vz3qo2ajl.webp",
+          "joinDate": "2022.9",
+          "tags": [
+            "Chemical Engineering"
+          ],
+          "researchText": "Chemical Engineering",
+          "description": "I come from Fujian Province. After receiving my bachelor's degree of Chemical Engineering in Tsinghua University, I joined Zhang's group in 2022 to pursue a PhD degree.",
+          "imagePosition": "15%",
+          "imageScale": "1.6"
+        },
+        {
+          "name": "Yun CHEN",
+          "image": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@masterZhangLab/members/cy2.4n85yqoelb.webp",
+          "joinDate": "2023.9",
+          "tags": [
+            "Natural Products",
+            "Neurodegenerative Diseases"
+          ],
+          "researchText": "Efficacy and mechanism of natural products from food sources in delaying neurodegenerative diseases.",
+          "description": "I am from Guangzhou, Guangdong province. I obtained my master's degree from South China Agricultural University in 2022. My work focuses on the efficacy and mechanism of natural products from food sources in delaying neurodegenerative diseases.",
+          "imagePosition": "15%",
+          "imageScale": "1.6"
+        },
+        {
+          "name": "Yiting LI",
+          "image": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@masterZhangLab/members/lyt2.2rvl64byzi.webp",
+          "joinDate": "2023.9",
+          "tags": [
+            "Fluorescent Nanosensor",
+            "Molecular Dynamics"
+          ],
+          "researchText": "Fluorescent nanosensor and molecular dynamics simulation.",
+          "description": "I come from Wuzhou, Guangxi. After receiving my master's degree from Nanjing Tech University in 2022, I joined Zhang's group. I have a research background in fluorescent nanosensor and molecular dynamics simulation.",
+          "imagePosition": "15%",
+          "imageScale": "1.3"
+        },
+        {
+          "name": "Xupu XING",
+          "image": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@masterZhangLab/members/xxp2.9o08qav93w.webp",
+          "joinDate": "2024.9",
+          "tags": [
+            "Organic Synthesis",
+            "Stimuli-responsive Delivery"
+          ],
+          "researchText": "Stimuli-responsive drug delivery systems.",
+          "description": "I am from Luoyang, Henan province. After obtaining my master's degree from South China University of Technology in 2023, I joined Zhang’s group. I have the basis for synthesizing organic molecules. My research focuses on stimuli-responsive drug delivery systems.",
+          "imagePosition": "35%",
+          "imageScale": "1.6"
+        },
+        {
+          "name": "Chang WEN",
+          "image": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@masterZhangLab/members/wc.70asfy27ru.webp",
+          "joinDate": "2024.9",
+          "tags": [
+            "Polysaccharides"
+          ],
+          "researchText": "Study and application of polysaccharides.",
+          "description": "I was born in Zunyi, Guizhou province. I joined Zhang's group after receiving my master's degree of Pharmacy in 2023. I have a research background of analysis structural characterizations and screening targets of polysaccharides. My research direction mainly focuses on study and application of polysaccharides.",
+          "imagePosition": "15%",
+          "imageScale": "1.6"
+        },
+        {
+          "name": "Lan QIN",
+          "image": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@masterZhangLab/members/ql2.8adpm9k72w.webp",
+          "joinDate": "2025.9",
+          "tags": [
+            "Hydrogels",
+            "Targeted Delivery"
+          ],
+          "researchText": "Development and application of drug targeted delivery system of hydrogels.",
+          "description": "I come from Chongqing, a beautiful hotpot city in the southwestern of China. After obtaining a Master's degree in Pharmacy, I join in Zhang's group in Tsinghua Shenzhen International Graduate School. My research focuses on the development and application of drug targeted delivery system of hydrogels.",
+          "imagePosition": "5%",
+          "imageScale": "1.2"
+        },
+        {
+          "name": "Yuqi ZHANG",
+          "image": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@masterZhangLab/members/zyq2.6bhivxeora.webp",
+          "joinDate": "2025.9",
+          "tags": [
+            "Biosilicification",
+            "Sono-immunotherapy"
+          ],
+          "researchText": "Biosilicification-assisted sono-immunotherapy.",
+          "description": "I come from Weifang, Shandong province. After receiving my master's degree from South China University of Technology in 2024, I joined Zhang's group. My research background is biosilicification-assisted sono-immunotherapy.",
+          "imagePosition": "15%",
+          "imageScale": "1.6"
+        },
+        {
+          "name": "Juping SUN",
+          "image": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@masterZhangLab/members/sjp.9rjuo0obte.webp",
+          "joinDate": "2025.9",
+          "tags": [
+            "Peptide Hydrogel",
+            "Ulcerative Colitis"
+          ],
+          "researchText": "Self-assembled defense peptide hydrogel and the treatment of ulcerative colitis.",
+          "description": "I'm from Zibo, Shandong Province. After receiving my master's degree from the University of Chinese Academy of Sciences in 2024, I joined Zhang's group. I have a research background in self-assembled defense peptide hydrogel and the treatment of ulcerative colitis.",
+          "imagePosition": "15%",
+          "imageScale": "1.6"
+        },
+        {
+          "name": "MD Foridul Islam",
+          "image": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@masterZhangLab/members/forid.1apg4d7u85.webp",
+          "joinDate": "2025.9",
+          "tags": [
+            "Chemical Engineering",
+            "Technology"
+          ],
+          "researchText": "Chemical Engineering and Technology.",
+          "description": "I am from Bangladesh. After receiving my Master’s degree in Chemistry and Physics of Polymers from the University of Chinese Academy of Sciences in 2025, I joined Professor Zhang’s group as a PhD student majoring in Chemical Engineering and Technology. I am excited to continue my research journey here and look forward to learning from my groupmates while contributing to the team's success.",
+          "imagePosition": "15%",
+          "imageScale": "1.6"
+        },
+        {
+          "name": "Ziqing Liang",
+          "image": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@masterZhangLab/members/lzq.8adpm9k72c.webp",
+          "joinDate": "2025.9",
+          "tags": [
+            "Antibacterial Materials"
+          ],
+          "researchText": "Stimuli-responsive antibacterial materials.",
+          "description": "I am from Guangzhou, Guangdong Province. After obtaining a master 's degree from the University of Science and Technology of China in 2025, I joined Zhang 's group. My research background is stimuli-responsive antibacterial materials.",
+          "imagePosition": "-5%",
+          "imageScale": "1.6"
+        }
+      ]
+    },
+    {
+      "title": "Graduate Students",
+      "members": [
+        {
+          "name": "Xiaotong ZHAO",
+          "image": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@masterZhangLab/members/zxt.77e0bebbxo.webp",
+          "joinDate": "2023.9",
+          "description": "I come from Guangzhou, Guangdong Province. After obtaining my bachelor's degree in the Food Science and Engineering Department of SCUT, I joined Zhang's group to pursue my master's degree. My major is Precision Medicine and Healthcare. Can't wait to get to know everyone!",
+          "imagePosition": "15%",
+          "imageScale": "1.7"
+        },
+        {
+          "name": "Wanyue ZHANG",
+          "image": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@masterZhangLab/members/zwy.83ahqul0dn.webp",
+          "joinDate": "2023.9",
+          "description": "I come from Nanjing, Jiangsu Province. I received my Bachelor's degree in biomedical engineering from Southeast University. I joined Zhang's group as a graduate student in 2023. My research direction is mainly about microneedles.",
+          "imagePosition": "22%",
+          "imageScale": "1.7"
+        },
+        {
+          "name": "Yuqing HUANG",
+          "image": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@masterZhangLab/members/hyq2.5mo9bxe4h6.webp",
+          "joinDate": "2023.9",
+          "description": "I come from Fuzhou, Fujian Province. I am a postgraduate student in iBHE and major in Precision Medicine and Healthcare. Before joining Zhang's lab, I received my bachelor 's degree from Ocean University of China. In my spare time, I like photography, reading and watching movies. Hope that we can have good time here!",
+          "imagePosition": "5%",
+          "imageScale": "1.7"
+        },
+        {
+          "name": "Jian TANG",
+          "image": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@masterZhangLab/members/tj.4n85yrbdbd.webp",
+          "joinDate": "2023.9",
+          "description": "I am from Chongqing and received my bachelor's degree in biomedical engineering from BUAA. As a postgraduate student in iBHE, I joined Zhang's group in 2023.",
+          "imagePosition": "-5%",
+          "imageScale": "1.1"
+        },
+        {
+          "name": "Han WU",
+          "image": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@masterZhangLab/members/wh.51elpmjo6g.webp",
+          "joinDate": "2023.9",
+          "description": "I am from Weifang, Shandong Province. After obtaining my Bachelor's degree in Chemical Engineering from Qingdao University.I joined Zhang's group in 2023.",
+          "imagePosition": "8%",
+          "imageScale": "1.5"
+        },
+        {
+          "name": "Yumao HE",
+          "image": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@masterZhangLab/members/hym.lw6kd79yf.webp",
+          "joinDate": "2024.9",
+          "description": "I come from Zunyi, Guizhou Probince. After obtaining my Bachelor's degree in Materials Science and Engineering from Tongji University.  I joined Zhang's group as a graduate student in 2024. Hope that we can study and grow happily here.",
+          "imagePosition": "5%",
+          "imageScale": "1.7"
+        },
+        {
+          "name": "Zhe KANG",
+          "image": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@masterZhangLab/members/kz.wj0dimi3b.webp",
+          "joinDate": "2024.9",
+          "description": "I am from Qinhuangdao, a charming coastal city, Hebei Province. Before coming to SIGS, I obtained my Bachelor's degree at Shandong University, majored in pharmacy. I joined Zhang's group in 2024.",
+          "imagePosition": "10%",
+          "imageScale": "1.7"
+        },
+        {
+          "name": "Fan ZHANG",
+          "image": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@masterZhangLab/members/zf.6wr6i8w3rn.webp",
+          "joinDate": "2024.9",
+          "description": "I am from Changsha, Hunan Province. After obtaining my bachelor's degree in Data Science and Big Data Technology .I joined Zhang's group in 2024. I hope that we can do an interdisciplinary study in the lab.",
+          "imagePosition": "0%",
+          "imageScale": "1"
+        },
+        {
+          "name": "Xueming ZHENG",
+          "image": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@masterZhangLab/members/zxm.2obz8f5uz6.webp",
+          "joinDate": "2024.9",
+          "description": "I come from Zibo,Shandong Province.After obtaining my Bachelor's degree in Communication Engineering from Shandong University.I joined Zhang's group in 2024.My research focuses on stimuli-responsive drug delivery systems.My major is Precision Medicine and Healthcare in SIGS.",
+          "imagePosition": "10%",
+          "imageScale": "1.7"
+        },
+        {
+          "name": "Zhongjun ZHENG",
+          "image": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@masterZhangLab/members/zzj.7i0u4jqk27.webp",
+          "joinDate": "2025.9",
+          "description": "I am from Shenzhen, Guangdong Province. I am a postgraduate student in iBHE, majoring in Evidence-Based Health Engineering. Before joining Professor Zhang's lab, I earned my bachelor’s degree at Ocean University of China. In my free time, I enjoy singing, street dancing and so on. Excited to create unforgettable memories together!",
+          "imagePosition": "8%",
+          "imageScale": "1.6"
+        },
+        {
+          "name": "Peihan JI",
+          "image": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@masterZhangLab/members/jph.ickmne77x.webp",
+          "joinDate": "2025.9",
+          "description": "I come from Linfen, Shanxi Province. I studied Food Science and Engineering at OUC as an undergraduate, and am currently joining Professor Zhang's research group to complete my master's degree in Materials and Chemical Engineering. I’m looking forward to communicating with you and making progress together.",
+          "imagePosition": "5%",
+          "imageScale": "1.7"
+        },
+        {
+          "name": "Jiangnan LIU",
+          "image": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@masterZhangLab/members/ljn.6t7kkj311o.webp",
+          "joinDate": "2025.9",
+          "description": "I come from Xiangtan, Hunan Province. I graduated from Nanchang University with a bachelor's degree in Food Science and Engineering. After working for some time, I entered Tsinghua University to pursue a master's degree in Precision Medicine and Public Health. I hope to keep working hard in the next three years.",
+          "imagePosition": "5%",
+          "imageScale": "1.7"
+        },
+        {
+          "name": "Tianxuan YUAN",
+          "image": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@masterZhangLab/members/wtx.99tszg9wxo.webp",
+          "joinDate": "2025.10",
+          "description": "I come from Qiqihar, Heilongjiang Province. I studied Robot Engineering in Beihang University and joined Zhang's group as a graduate student in 2024. Biomedical Engineering is my current research direction.",
+          "imagePosition": "0%",
+          "imageScale": "1.1"
+        },
+        {
+          "name": "Jiashuo LI",
+          "image": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@masterZhangLab/members/ljs.1zipoeiby3.webp",
+          "joinDate": "2025.10",
+          "description": "I come from Baoding,Hebei Province.After obtaining my Bachelor's degree in Department of Automation from Tsinghua University.I joined Zhang's group in 2025. My research focuses on LLM. I look forward to learning and making progress together with everyone.",
+          "imagePosition": "18%",
+          "imageScale": "1.4"
+        }
+      ]
+    }
+  ],
+  "alumni": [
+    {
+      "name": "Yaxin Chen",
+      "year": "2022",
+      "position": "Research Assistant"
+    },
+    {
+      "name": "Liang Zhao",
+      "year": "2024",
+      "position": "Postdoc"
+    },
+    {
+      "name": "Wanwan Liu",
+      "year": "2024",
+      "position": "Master"
+    },
+    {
+      "name": "Kexin Deng",
+      "year": "2024",
+      "position": "Master"
+    },
+    {
+      "name": "YAMAMOTO",
+      "year": "2024",
+      "position": "Visiting Student"
+    },
+    {
+      "name": "Fujia Kou",
+      "year": "2025",
+      "position": "Master"
+    },
+    {
+      "name": "Dan Li",
+      "year": "2025",
+      "position": "Master"
+    },
+    {
+      "name": "Jiahui Liu",
+      "year": "2025",
+      "position": "Master"
+    },
+    {
+      "name": "Yujia Zhang",
+      "year": "2025",
+      "position": "Visiting Student"
+    }
+  ]
+}
