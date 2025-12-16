@@ -33,12 +33,13 @@
     },
     {
       "date": "September 10th, 2025",
-      "title": "2024 Outstanding Employee Award",
-      "description": "Celebrating Teacher Zhang Xiaopeng for receiving the 2024 Outstanding Employee Award!",
+      "title": "2024 Outstanding Teacher/Employee Award",
+      "description": "Congratulations to Professor ZHANG Canyang (PI), recipient of the 2024 Outstanding Teacher Award, and to ZHANG Xiaopeng (PhD.), recipient of the 2024 Outstanding Employee Award!",
       "celebrate": true,
       "celebrationType": "award",
       "images": [
-        "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@master/ZhangLab/news/25081001.5mo9c42xvo.webp"
+        "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@master/ZhangLab/news/25081001.39ln59fg4x.webp",
+        "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@master/ZhangLab/news/25081002.5mo9c42xvo.webp"
       ]
     },
     {
