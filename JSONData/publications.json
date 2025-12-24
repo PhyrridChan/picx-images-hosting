@@ -97,7 +97,14 @@
       "authors": "Fei Li, Jiongpeng Huang, Dingxin Xu, Chengjin Wang, Liang Zhao, Xinyu Gong, Hang Li, Can Yang Zhang, Qinghua Song, Yang Su*, Hui-Ming Cheng*",
       "journal": "Science China Materials",
       "type": "Journal Article",
-      "url": "https://doi.org/10.1007/s40843-024-3089-2"
+      "url": "https://doi.org/10.1007/s40843-024-3089-2",
+      "ackwnowledgement": {
+        "KQTD202108110901120020": "the Peacock Team Project",
+        "521881010": "the National Natural Science Foundation of China",
+        "QD2021026C": "the Scientific Research Start-up Funds of Tsinghua SIGS",
+        "JC2021011": "the Research Fund from Shenzhen International Graduate School, Tsinghua University",
+        "Shenzhen Geim Graphene Center": "the Shenzhen Geim Graphene Center"
+      }
     },
     {
       "year": 2024,
@@ -105,7 +112,12 @@
       "authors": "Kexin Deng, Xiaobin Li, Wanwan Liu, Junyu Liu, Runming Wang, Yandong Yin, Can Yang Zhang*",
       "journal": "Chinese Science Bulletin",
       "type": "Journal Article",
-      "url": "https://doi.org/10.1360/TB-2024-0878"
+      "url": "https://doi.org/10.1360/TB-2024-0878",
+      "ackwnowledgement": {
+        "2021QN02Y225": "广东省珠江人才计划",
+        "HW2023009": "清华大学深圳国际研究生院海外科研合作基金",
+        "DCE-iBHE-2022-3": "Department of Chemical Engineering-iBHE special cooperation joint fund project"
+      }
     },
     {
       "year": 2024,
@@ -114,7 +126,12 @@
       "journal": "Acta Chimica Sinica",
       "type": "Journal Article",
       "note": "Front Cover Article",
-      "url": "https://doi.org/10.6023/A24090258"
+      "url": "https://doi.org/10.6023/A24090258",
+      "ackwnowledgement": {
+        "2021QN02Y225": "广东省珠江人才计划",
+        "HW2023009": "清华大学深圳国际研究生院海外科研合作基金",
+        "DCE-iBHE-2022-3": "Department of Chemical Engineering-iBHE special cooperation joint fund project"
+      }
     },
     {
       "year": 2024,
@@ -122,7 +139,17 @@
       "authors": "Wanwan Liu, Wenjuan Zhou, Tatsuhisa Tsuboi, Sanyang Han, Runming Wang, Shaohua Ma, Yandong Yin, Xin Dong Guo*, Can Yang Zhang*",
       "journal": "Health Engineering",
       "type": "Journal Article",
-      "url": "https://doi.org/10.26599/HE.2024.9460002"
+      "url": "https://doi.org/10.26599/HE.2024.9460002",
+      "ackwnowledgement": {
+        "2023YFA09136000": "the National Key Research and Development Program of China",
+        "22278242": "the National Natural Science Foundation of China",
+        "20215810117": "Start-up Package (Peacock Project)",
+        "SZBL2021080601011": "Shenzhen Bay Laboratory",
+        "HW2023009": "清华大学深圳国际研究生院海外科研合作基金",
+        "JC2021011": "the Research Fund from Shenzhen International Graduate School, Tsinghua University",
+        "WDZC20220811144737001": "Jilin Fuyuan Guan Food Group Co., Ltd, the Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "startup funds from Tsinghua SIGS for T.T.": "startup funds from Tsinghua SIGS for T.T."
+      }
     },
     {
       "year": 2024,
@@ -130,7 +157,17 @@
       "authors": "Oudong Hu, Mingjin Lu, Minkun Cai, Junyu Liu, Xueqing Qiu, Chuan Fei Guo, Can Yang Zhang*, Yong Qian*",
       "journal": "Advanced Materials",
       "type": "Journal Article",
-      "url": "https://doi.org/10.1002/adma.202407129"
+      "url": "https://doi.org/10.1002/adma.202407129",
+      "ackwnowledgement": {
+        "22122804": "the National Natural Science Foundation of China",
+        "22378143": "the National Natural Science Foundation of China",
+        "U23A6005": "the National Natural Science Foundation of China",
+        "22278242": "the National Natural Science Foundation of China",
+        "2023PY08": "the State Key Laboratory of Pulp and Paper Engineering",
+        "SZBL2021080601011": "the Shenzhen Bay Laboratory Open Funding",
+        "HW2023009": "the Scientific Research Start-up Funds of Tsinghua SIGS",
+        "JC2021011": "the Research Fund from Shenzhen International Graduate School, Tsinghua University"
+      }
     },
     {
       "year": 2024,
@@ -138,7 +175,23 @@
       "authors": "Qian He, Qun Chen, Lijin Lian, Jiuxin Qu, Xi Yuan, Chuhui Wang, Lidan Xu, Jiazhang Wei, Shaoling Zeng, Dongmei Yu, Yuhan Dong, Yongbing Zhang, Lin Deng, Ke Du, Can Yang Zhang, Vijay Pandey, Ijaz Gul*, Peiwu Qin*",
       "journal": "Microchimica Acta",
       "type": "Journal Article",
-      "url": "https://doi.org/10.1007/s00604-024-06545-4"
+      "url": "https://doi.org/10.1007/s00604-024-06545-4",
+      "ackwnowledgement": { 
+        "31970752": "the National Natural Science Foundation of China",
+        "32350410397": "the National Natural Science Foundation of China",
+        "JCYJ20190809180003689": "Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "JSGG20191129110812708": "Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "JSGG20200225150707332": "Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "JCYJ20220530143014032": "Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "JCYJ20230807113017035": "Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "WDZC20200820173710001": "Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "SZBL2020090501004": "the Shenzhen Bay Laboratory Open Funding",
+        "D2301002": "Shenzhen Medical Research Funds",
+        "DCE-iBHE-2022-3": "Department of Chemical Engineering-iBHE special cooperation joint fund project",
+        "JC2022009": "Tsinghua Shenzhen International Graduate School Cross-disciplinary Research and Innovation Fund Research Plan",
+        "2022-207": "Bureau of Planning, Land and Resources of Shenzhen Municipality", 
+        "2020M680023": "China Postdoctoral Science Foundation"
+      }
     },
     {
       "year": 2024,
@@ -146,7 +199,13 @@
       "authors": "Long Huang, Wei Hu, Long Qun Huang, Qin Xuan Zhou, Zheng Yang Song, Heng Yu Tao, Bing Xu, Can Yang Zhang*, Yi Wang*, Xin Hui Xing*",
       "journal": "Science Advances",
       "type": "Journal Article",
-      "url": "https://doi.org/10.1126/sciadv.ado7438"
+      "url": "https://doi.org/10.1126/sciadv.ado7438",
+      "ackwnowledgement": {
+        "2023YFA0914300": "Key Research and Development Program of the Ministry of Science and Technology",
+        "2023YFA0914304": "Key Research and Development Program of the Ministry of Science and Technology", 
+        "B2302009": "Shenzhen Medical Research Fund (SMRF)",
+        "22161142014": "National Natural Science Foundation of China"
+      }
     },
     {
       "year": 2024,
@@ -154,7 +213,18 @@
       "authors": "Mohamed Bahri*, Dongmei Yu, Can Yang Zhang, Zhenglin Chen, Chengming Yang, Lyes Douadji, Peiwu Qin*",
       "journal": "Heliyon",
       "type": "Journal Article",
-      "url": "https://doi.org/10.1016/j.heliyon.2024.e24427"
+      "url": "https://doi.org/10.1016/j.heliyon.2024.e24427",
+      "acknowledgement": {
+        "31970752": "National Natural Science Foundation of China",
+        "32350410397": "National Natural Science Foundation of China",
+        "JCYJ20220530143014032": "Science Technology Innovation Commission of Shenzhen Municipality",
+        "JCYJ20230807113017035": "Science Technology Innovation Commission of Shenzhen Municipality",
+        "WDZC20200820173710001": "Science Technology Innovation Commission of Shenzhen Municipality",
+        "D2301002": "Shenzhen Medical Research Funds",
+        "DCE-iBHE-2022-3": "Department of Chemical Engineering-iBHE special cooperation joint fund project",
+        "JC2022009": "Tsinghua Shenzhen International Graduate School Cross-disciplinary Research and Innovation Fund Research Plan",
+        "2022-207": "Bureau of Planning, Land and Resources of Shenzhen Municipality"
+      }
     },
     {
       "year": 2024,
@@ -162,7 +232,17 @@
       "authors": "Chenyao Jiang, Shiyao Zhai, Hengrui Song, Yuqing Ma, Yachen Fan, Yancheng Fang, Dongmei Yu, Can Yang Zhang, Sanyang Han, Runming Wang, Yong Liu, Zhenglin Chen*, Jianbo Li*, Peiwu Qin*",
       "journal": "Computational Intelligence",
       "type": "Journal Article",
-      "url": "https://doi.org/10.1111/coin.12653"
+      "url": "https://doi.org/10.1111/coin.12653",
+      "acknowledgement": {
+        "JSGG20191129110812708": "Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "JSGG20200225150707332": "Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "ZDSYS202008201654000": "Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "JCYJ20190809180003689": "Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "WDZC20200820173710001": "Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "31970752": "National Natural Science Foundation of China",
+        "SZBL2020090501004": "Shenzhen Bay Laboratory Open Funding",
+        "PY2023021": "Science Research Cultivation Program of Stomatological Hospital, Southern Medical University"
+      }
     },
     {
       "year": 2024,
@@ -170,7 +250,8 @@
       "authors": "Muhammad Akmal Raheem, Muhammad Ajwad Rahim, Ijaz Gul, Md. Reyad-ul-Ferdous, Can Yang Zhang, Dongmei Yu d, Vijay Pandey, Ke Du e, Runming Wang, Sanyang Han, Yuxing Han, Peiwu Qin*",
       "journal": "Life Sciences",
       "type": "Journal Article",
-      "url": "https://doi.org/10.1016/j.lfs.2024.122861"
+      "url": "https://doi.org/10.1016/j.lfs.2024.122861",
+      "withdrawn": true
     },
     {
       "year": 2024,
@@ -178,7 +259,20 @@
       "authors": "Ming Wen Ou Yang, Liu Fu Hu, Yun Hao Feng, Xiaobin Li, Juan Peng, Ruixing Yu*, Can Yang Zhang*, Bo Zhi Chen*, and Xin Dong Guo*",
       "journal": "ACS Applied Bio Materials",
       "type": "Journal Article",
-      "url": "https://doi.org/10.1021/acsabm.4c00399"
+      "url": "https://doi.org/10.1021/acsabm.4c00399",
+      "acknowledgement": {
+        "2023YFA0913600": "National Key Research and Development Program of China",
+        "22278242": "National Natural Science Foundation of China",
+        "52161145410": "National Natural Science Foundation of China",
+        "52373126": "National Natural Science Foundation of China",
+        "52303173": "National Natural Science Foundation of China",
+        "ZY2453": "Fundamental Research Funds for the Central Universities",
+        "XK2023-20": "Beijing University of Chemical Technology-China-Japan Friendship Hospital Biomedical Translational Engineering Research Center Key Projects",
+        "SZBL2021080601011": "Shenzhen Bay Laboratory Open Funding",
+        "QD2021020C": "Scientific Research Start-up Funds",
+        "HW2023009": "Shenzhen International Graduate School at Tsinghua University",
+        "JC2021011": "Shenzhen International Graduate School at Tsinghua University"
+      }
     },
     {
       "year": 2024,
@@ -186,7 +280,27 @@
       "authors": "Zhenglin Chen, Jiaqi Yang, Zhicheng Du, Jiansong Ji, Likun Zhang, Haifei Guan, Zhengyang Lei, Xiaopeng Zhang, Canhui Yang, Ying Zhu, Qianhui Sun, Lulu Xu, Ke Lin, Yuchen Wang, Chuhui Wang, Chong Zhang, Dongmei Yu*, Peiwu Qin*, Can Yang Zhang*",
       "journal": "Chemical Engineering Journal",
       "type": "Journal Article",
-      "url": "https://doi.org/10.1016/j.cej.2024.152465"
+      "url": "https://doi.org/10.1016/j.cej.2024.152465",
+      "acknowledgement": {
+        "2023YFA0913600": "National Key Research and Development Program of China",
+        "31970752": "National Natural Science Foundation of China",
+        "22278242": "National Natural Science Foundation of China",
+        "2023M730856": "China Postdoctoral Science Foundation",
+        "RCBS20221008093129082": "Shenzhen Excellent Scientific and Technological Innovation Talent Training Program",
+        "JCYJ20190809180003689": "Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "JSGG20200225150707332": "Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "JCYJ20220530143014032": "Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "KCXFZ20211020163813019": "Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "ZDSYS20200820165400003": "Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "WDZC20200820173710001": "Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "WDZC20200821150704001": "Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "JSGG20191129110812708": "Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "SZBL2020090501004": "Shenzhen Bay Laboratory Open Funding",
+        "SZBL2021080601011": "Shenzhen Bay Laboratory Open Funding",
+        "DCE-iBHE-2022-3": "Department of Chemical Engineering-iBHE Cooperation Joint Fund Project",
+        "JC2022009": "Tsinghua Shenzhen International Graduate School Cross-disciplinary Research and Innovation Fund Research Plan",
+        "2022-207": "Bureau of Planning, Land and Resources of Shenzhen Municipality"
+      }
     },
     {
       "year": 2024,
@@ -195,7 +309,17 @@
       "journal": "APL Materials",
       "type": "Journal Article",
       "note": "Editor's Picks",
-      "url": "https://doi.org/10.1063/5.0209799"
+      "url": "https://doi.org/10.1063/5.0209799",
+      "acknowledgement": {
+        "2023YFA0913600": "National Key Research and Development Program of China",
+        "2023YFA0913602": "National Key Research and Development Program of China",
+        "22278242": "National Natural Science Foundation of China",
+        "20215810117": "Start-up Package (Peacock Project)",
+        "2021QN02Y225": "Pearl River Talent Project",
+        "SZBL2021080601011": "Shenzhen Bay Laboratory",
+        "JC2021011": "Shenzhen International Graduate School at Tsinghua University",
+        "HW2023009": "Shenzhen International Graduate School at Tsinghua University"
+      }
     },
     {
       "year": 2024,
@@ -203,7 +327,16 @@
       "authors": "胡可儿, 王汉奇, 黄儒麒, 张灿阳*, 邢新会, 马少华*",
       "journal": "合成生物学",
       "type": "Journal Article",
-      "url": "https://synbioj.cip.com.cn/CN/10.12211/2096-8280.2023-105"
+      "url": "https://synbioj.cip.com.cn/CN/10.12211/2096-8280.2023-105",
+      "ackwnowledgement": {
+        "82341019": "National Natural Science Foundation of China",
+        "82111530212": "National Natural Science Foundation of China",
+        "22278242": "National Natural Science Foundation of China",
+        "2023B0909020003": "广东省重点领域研发计划",
+        "KCXFZ20201221173207022": "Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "KCXFZ20200201101050887": "Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "JC2022009": "Tsinghua Shenzhen International Graduate School Cross-disciplinary Research and Innovation Fund Research Plan"
+      }
     },
     {
       "year": 2024,
@@ -211,7 +344,16 @@
       "authors": "Lan Liu, Xin Fan, Qianyun Lu, Pengxu Wang, Xingang Wang, Yuxing Han, Runming Wang, Can Yang Zhang, Sanyang Han, Tatsuhisa Tsuboi, Hongliang Dai*, Jonathan Yeow*, Hongya Geng*",
       "journal": "International Journal of Biological Macromolecules",
       "type": "Journal Article",
-      "url": "https://doi.org/10.1016/j.ijbiomac.2024.129251"
+      "url": "https://doi.org/10.1016/j.ijbiomac.2024.129251",
+      "acknowledgement": { 
+        "22305141": "National Natural Science Foundation of China",
+        "51908252": "National Natural Science Foundation of China",
+        "2023M741474": "Postdoctoral Research Foundation of China",
+        "2018": "Qinglan Project of Jiangsu Province of China",
+        "2022": "Qinglan Project of Jiangsu Province of China",
+        "AD2022027C": "Scientific Research Foundation from Shenzhen Finance Bureau",
+        "BY2021420": "Joint Project of Industry-University-Research of Jiangsu Province"
+      }
     },
     {
       "year": 2024,
@@ -219,7 +361,22 @@
       "authors": "Muhammad Hassan, Hao Zhang, Ahmed Ameen Fateh, Shuyue Ma, Wen Liang, Dingqi Shang, Jiaming Deng, Ziheng Zhang, Tsz Kwan Lam, Ming Xu, Qiming Huang, Dongmei Yu, Can Yang Zhang, Zhou You, Wei Pang, Chengming Yang*, Peiwu Qin*",
       "journal": "Complex & Intelligent Systems",
       "type": "Journal Article",
-      "url": "https://link.springer.com/article/10.1007/s40747-023-01141-0"
+      "url": "https://link.springer.com/article/10.1007/s40747-023-01141-0",
+      "acknowledgement": {
+        "31970752": "National Natural Science Foundation of China",
+        "JCYJ20190809180003689": "Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "JSGG20200225150707332": "Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "JCYJ20220530143014032": "Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "KCXFZ20211020163813019": "Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "ZDSYS20200820165400003": "Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "WDZC20200820173710001": "Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "WDZC20200821150704001": "Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "JSGG20191129110812708": "Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "SZBL2020090501004": "Shenzhen Bay Laboratory Open Funding",
+        "DCE-iBHE-2022-3": "Department of Chemical Engineering-iBHE special cooperation joint fund project",
+        "JC2022009": "Tsinghua Shenzhen International Graduate School Cross-disciplinary Research and Innovation Fund Research Plan",
+        "2022-207": "Bureau of Planning, Land and Resources of Shenzhen Municipality"
+      }
     },
     {
       "year": 2023,
@@ -227,7 +384,18 @@
       "authors": "Yang Liu, Xiaoyun Zhong, Shiyao Zhai, Zhicheng Du, Zhenyuan Gao, Qiming Huang, Can Yang Zhang, Bin Jiang, Vijay Kumar Pandey, Sanyang Han, Runming Wang, Yuxing Han, Chuhui Wang*, Peiwu Qin*",
       "journal": "Computers in Biology and Medicine",
       "type": "Journal Article",
-      "url": "https://doi.org/10.1016/j.compbiomed.2023.107672"
+      "url": "https://doi.org/10.1016/j.compbiomed.2023.107672",
+      "acknowledgement": {
+        "31970752": "National Natural Science Foundation of China",
+        "JCYJ20190809180003689": "Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "JSGG20200225150707332": "Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "JCYJ20220530143014032": "Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "KCXFZ20211020163813019": "Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "ZDSYS20200820165400003": "Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "WDZC20200820173710001": "Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "WDZC20200821150704001": "Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "JSGG20191129110812708": "Science, Technology, Innovation Commission of Shenzhen Municipality"
+      }
     },
     {
       "year": 2023,
@@ -235,7 +403,20 @@
       "authors": "Yun Hao Feng, Wei Xin Guo, Xiaobin Li, Jiahui Liu, Vahideh Nosrati-Siahmazgi, Maryam Toolabi, Wen Min Fei, Yong Cui, Bo Zhi Chen, Mohammad-Ali Shahbazi, Li Juan Zhang, Can Yang Zhang*, Xin Dong Guo*",
       "journal": "Chemical Engineering Science",
       "type": "Journal Article",
-      "url": "https://doi.org/10.1016/j.ces.2023.118715"
+      "url": "https://doi.org/10.1016/j.ces.2023.118715",
+      "acknowledgement": {
+        "51873015": "National Natural Science Foundation of China",
+        "52161145410": "National Natural Science Foundation of China",
+        "22278242": "National Natural Science Foundation of China",
+        "XK2020-05": "Joint Project of BRC-BC (Biomedical Translational Engineering Research Center of BUCT-CJFH)",
+        "RZ2020-01": "Joint Project of BRC-BC (Biomedical Translational Engineering Research Center of BUCT-CJFH)",
+        "2022M720372": "China Postdoctoral Science Foundation",
+        "20212779": "Research Fund Program of Guangdong Provincial Key Lab of Green Chemical Product Technology",
+        "JC2022011": "Shenzhen International Graduate School at Tsinghua University",
+        "20215810117": "Shenzhen International Graduate School at Tsinghua University",
+        "4001987": "Iran National Science Foundation-National Natural Science Foundation of China joint grant",
+        "other": "the long-term subsidy mechanism from the Ministry of Finance and the Ministry of Education of PRC; Shahbazi acknowledges the financial support of the incentive fund from the University of Groningen, Groningen, The Netherlands. The calculation in this work is supported by high performance computing platform of BUCT."
+      }
     },
     {
       "year": 2023,
@@ -244,7 +425,15 @@
       "journal": "Materials Today",
       "type": "Journal Article",
       "note": "Front Cover Article",
-      "url": "https://doi.org/10.1016/j.mattod.2022.11.011"
+      "url": "https://doi.org/10.1016/j.mattod.2022.11.011",
+      "acknowledgement": {
+        "QD2021033C": "Scientific Research Start-up Funds at Shenzhen International Graduate School at Tsinghua University",
+        "QD2021020C": "Scientific Research Start-up Funds at Shenzhen International Graduate School at Tsinghua University",
+        "JC2022011": "Special Fostering Fund at Shenzhen International Graduate School at Tsinghua University",
+        "JCYJ20180306174102763": "Shenzhen Science and Technology Fund",
+        "SZBL2021080601011": "Shenzhen Bay Laboratory Open Funding",
+        "JCYJ20220530142816037": "Shenzhen Basic Research Project"
+      }
     },
     {
       "year": 2023,
@@ -252,7 +441,11 @@
       "authors": "Xiaobin Li, Junyu Liu, Haihong Chen, Yaxin Chen, Yi Wang, Can Yang Zhang*, Xin-Hui Xing*",
       "journal": "Green Chemical Engineering",
       "type": "Journal Article",
-      "url": "https://www.sciencedirect.com/science/article/pii/S2666952822000644"
+      "url": "https://www.sciencedirect.com/science/article/pii/S2666952822000644",
+      "acknowledgement": {
+        "QD2021020C": "Scientific Research Start-up Funds at Shenzhen International Graduate School at Tsinghua University",
+        "KCXFZ20201221173207022": "Shenzhen Science and Technology Innovation Commission"
+      }
     },
     {
       "year": 2023,
@@ -260,15 +453,35 @@
       "authors": "Muhammad Akmal Raheem, Muhammad Ajwad Rahim, Ijaz Gul, Xiaoyun Zhong, Chufan Xiao, Haihui Zhang, Jiazhang Wei, Qian He, Muhammad Hassan, Can Yang Zhang, Dongmei Yu, Vijay Pandey, Ke Du, Runming Wang, Sanyang Han, Yuxing Han, Peiwu Qin*",
       "journal": "OpenNano",
       "type": "Journal Article",
-      "url": "https://doi.org/10.1016/j.onano.2023.100152"
+      "url": "https://doi.org/10.1016/j.onano.2023.100152",
+      "acknowledgement": {
+        "31970752": "National Natural Science Foundation of China",
+        "JCYJ20190809180003689": "Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "JSGG20200225150707332": "Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "JCYJ20220530143014032": "Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "ZDSYS20200820165400003": "Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "WDZC20200820173710001": "Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "JSGG20191129110812708": "Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "SZBL2020090501004": "Shenzhen Bay Laboratory Open Funding"
+      }
     },
     {
       "year": 2023,
-      "title": "phylogeography, and adaptive evolution of mpox virus",
+      "title": "Emergence, phylogeography, and adaptive evolution of mpox virus",
       "authors": "Haifei Guan, Ijaz Gul, Chufan Xiao, Shuyue Ma, Yingshan Liang, Dongmei Yu, Ying Liu, Hong Liu, Can Yang Zhang, Juan Li*, Peiwu Qin*, Emergence",
       "journal": "New Microbes and New Infections",
       "type": "Journal Article",
-      "url": "https://doi.org/10.1016/j.nmni.2023.101102"
+      "url": "https://doi.org/10.1016/j.nmni.2023.101102",
+      "acknowledgement": {
+        "31970752": "National Natural Science Foundation of China",
+        "JCYJ20190809180003689": "Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "JSGG20200225150707332": "Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "JSGG20191129110812708": "Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "ZDSYS20200820165400003": "Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "WDZC20200820173710001": "Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "JCYJ202205300143014032": "Science, Technology, Innovation Commission of Shenzhen Municipality",
+        "SZBL2020090501004": "Shenzhen Bay Laboratory Open Funding"
+      }
     },
     {
       "year": 2023,
@@ -276,7 +489,12 @@
       "authors": "Hai-Hong Chen, Wei Li, Yi Wang, Bing Xu, Xi Hu, Xiaobing Li, Junyu Liu, Chong Zhang, Can Yang Zhang, Xin-Hui Xing*",
       "journal": "Journal of Agricultural and Food Chemistry",
       "type": "Journal Article",
-      "url": "https://doi.org/10.1021/acs.jafc.3c00535"
+      "url": "https://doi.org/10.1021/acs.jafc.3c00535",
+      "acknowledgement": {
+        "KCXFZ20201221173207022": "Shenzhen Science and Technology Innovation Commission",
+        "32101936": "Youth Science Foundation Project",
+        "2022T150366": "China Postdoctoral Science Foundation, no. 15 Special Fund (In-Station)"
+      }
     },
     {
       "year": 2023,
@@ -284,11 +502,16 @@
       "authors": "Wei Li, Hai-Hong Chen, Bing Xu, Yi Wang, Can Yang Zhang, Yong Cao, Xin-Hui Xing*",
       "journal": "Journal of Future Foods",
       "type": "Journal Article",
-      "url": "https://doi.org/10.1016/j.jfutfo.2023.03.001"
+      "url": "https://doi.org/10.1016/j.jfutfo.2023.03.001",
+      "acknowledgement": {
+        "2021-735": "Shenzhen agricultural development special fund (Fishery) agricultural high-tech project",
+        "KCXFZ20201221173207022": "Shenzhen Science and Technology Innovation Commission",
+        "32101936": "Youth Science Foundation Project"
+      }
     },
     {
       "year": 2022,
-      "title": "CRISPR–Cas12-based field-deployable system for rapid detection of synthetic DNA sequence of the monkeypox virus genome",
+      "title": "CRISPR-Cas12-based field-deployable system for rapid detection of synthetic DNA sequence of the monkeypox virus genome",
       "authors": "Qun Chen, Ijaz Gul*, Changyue Liu, Zhengyang Lei, Xingyu Li, Muhammad A. Raheem, Qian He, Zhang Haihui, Edwin Leeansyah, Can Yang Zhang, Vijay Pandey, Ke Du, Peiwu Qin*",
       "journal": "Journal of Medical Virology",
       "type": "Journal Article",
