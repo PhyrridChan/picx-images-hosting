@@ -25,6 +25,15 @@
     }
   ],
   "publications": [
+    { 
+      "year": 2025,
+      "title": "Mannose-Modified Cationic Liposome-Based mRNA Therapeutics for Improved Triple-Negative Breast Cancer Immunotherapy",
+      "authors": "Kexin Deng, Juping Sun, Junyu Liu, Yuqi Zhang, Wanwan Liu, Xiaobin Li, Han Wu, Juan Li, Jisong Zhang, Chanyuan Jin, Can Yang Zhang",
+      "journal": "Advanced Materials Today",
+      "type": "Journal Article",
+      "url": "https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/anbr.202500226?campaign=wolearlyview",
+      "abstract": "Despite triple-negative breast cancer (TNBC) is the most heterogeneous and aggressive subtype of breast cancer, immunotherapy is emerging as a promising therapy. Here, a mannose-modified cationic liposome (cLipo)-based mRNA therapeutics with dendritic cell (DC) targeting and high safety is developed for TNBC immunotherapy. The cLipos are fabricated using mannose-modified PEGylated lipids, DOPE, DOTAP, and cholesterol, followed by systematic screening of formulations based on mRNA loading capacity, cytotoxicity, and transfection efficacy. The mTEM8, which is related to tumor endothelial marker 8 (TEM8, known as Anthrax Toxin Receptor 1), can be efficiently encapsulated into the optimal cLipo to prepare the mRNA therapeutics (cLipo-Man/mTEM8), which can deliver mTEM8 to DCs with an eightfold higher delivery efficiency compared with the commercial Liposomes. The cLipo-Man/mTEM8 therapeutics elicited robust immune activation, significantly enhancing CD4+ and CD8+ T-cell responses and improving antitumor efficacy in TNBC-bearing mice. The tumor growth of TNBC-bearing mice treated with the cLipo-Man/mTEM8 therapeutics is obviously suppressed, and the survival rate is doubled compared to other controls. Furthermore, the mannose-modified cLipo system demonstrated excellent biosafety in vivo. Collectively, this study presents a safe and effective mannose-modified cLipo-based mRNA therapeutic with strong potential for advancing TNBC immunotherapy."
+    },
     {
       "year": 2025,
       "title": "Dissolved Bubble Microneedle Patches for Co-Delivery of Hydrophobic and Hydrophilic Drugs to Improve Acne Vulgaris Therapy",
