@@ -109,21 +109,6 @@
       "title": "PhD Candidates",
       "members": [
         {
-          "name": "Junyu LIU",
-          "image": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@master/ZhangLab/members/ljy2.6t7kkig2bg.webp",
-          "joinDate": "2021.9",
-          "tags": [
-            "Metabolic Diseases",
-            "Animal Models",
-            "Pharmacokinetic Effects",
-            "Pu'er tea"
-          ],
-          "researchText": "Efficacy and mechanism of natural products from food sources to improve glucose and lipid metabolism and construct related delivery systems.",
-          "description": "My research direction is the efficacy and mechanism of natural products from food sources to improve glucose and lipid metabolism and construct related delivery systems. My research fields involve oral delivery system construction, the efficacy and mechanism of natural products in vitro and in vivo, bioinformatics analysis, etc. My cumulative IF of papers published as the first author or co-first author is 23.208.",
-          "imagePosition": "5%",
-          "imageScale": "1.1"
-        },
-        {
           "name": "Xiaobin LI",
           "image": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@master/ZhangLab/members/lxb2.3gouq4zi02.webp",
           "joinDate": "2022.9",
@@ -429,6 +414,11 @@
       "name": "Yujia Zhang",
       "year": "2025",
       "position": "Visiting Student"
+    },
+    {
+      "name": "Junyu Liu",
+      "year": "2025",
+      "position": "PHD --> Sinopharm"
     }
   ]
 }
