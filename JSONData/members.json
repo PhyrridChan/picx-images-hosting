@@ -371,54 +371,54 @@
   ],
   "alumni": [
     {
-      "name": "Yaxin Chen",
-      "year": "2022",
-      "position": "Research Assistant"
-    },
-    {
-      "name": "Liang Zhao",
-      "year": "2024",
-      "position": "Postdoc"
-    },
-    {
-      "name": "Wanwan Liu",
-      "year": "2024",
-      "position": "Master"
-    },
-    {
-      "name": "Kexin Deng",
-      "year": "2024",
-      "position": "Master"
-    },
-    {
-      "name": "YAMAMOTO",
-      "year": "2024",
-      "position": "Visiting Student"
-    },
-    {
-      "name": "Fujia Kou",
-      "year": "2025",
-      "position": "Master"
-    },
-    {
-      "name": "Dan Li",
-      "year": "2025",
-      "position": "Master"
-    },
-    {
-      "name": "Jiahui Liu",
-      "year": "2025",
-      "position": "Master"
-    },
-    {
-      "name": "Yujia Zhang",
-      "year": "2025",
-      "position": "Visiting Student"
-    },
-    {
-      "name": "Junyu Liu",
-      "year": "2025",
-      "position": "PHD --> Sinopharm"
-    }
-  ]
+    "name": "Junyu Liu",
+    "year": "2025",
+    "position": "PHD --> Sinopharm"
+  },
+  {
+    "name": "Fujia Kou",
+    "year": "2025",
+    "position": "Master"
+  },
+  {
+    "name": "Dan Li",
+    "year": "2025",
+    "position": "Master"
+  },
+  {
+    "name": "Jiahui Liu",
+    "year": "2025",
+    "position": "Master"
+  },
+  {
+    "name": "Yujia Zhang",
+    "year": "2025",
+    "position": "Visiting Student"
+  },
+  {
+    "name": "Liang Zhao",
+    "year": "2024",
+    "position": "Postdoc"
+  },
+  {
+    "name": "Wanwan Liu",
+    "year": "2024",
+    "position": "Master"
+  },
+  {
+    "name": "Kexin Deng",
+    "year": "2024",
+    "position": "Master"
+  },
+  {
+    "name": "YAMAMOTO",
+    "year": "2024",
+    "position": "Visiting Student"
+  },
+  {
+    "name": "Yaxin Chen",
+    "year": "2022",
+    "position": "Research Assistant"
+  }
+]
 }
