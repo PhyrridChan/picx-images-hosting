@@ -1,7 +1,7 @@
 {
   "siteLogo": {
     "text": "ZhangLab",
-    "image": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@master/ZhangLab/lablogo/lablogo.92qkyfx2ma.webp"
+    "image": "ZhangLab/lablogo/lablogo.92qkyfx2ma.webp"
   },
   "menuItems": [
     {
@@ -34,7 +34,7 @@
     {
       "label": "Shenzhen International Graduate School",
       "url": "https://www.sigs.tsinghua.edu.cn/",
-      "img": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@master/Emblem/image.3rbocwejis.webp"
+      "img": "Emblem/image.3rbocwejis.webp"
     },
     {
       "label": "©2025 The Zhang Lab"
@@ -43,22 +43,22 @@
   "hero": {
     "slides": [
       {
-        "image": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@master/ZhangLab/hero/hero1.83ahvm95vu.webp",
+        "image": "ZhangLab/hero/hero1.83ahvm95vu.webp",
         "title": "Zhang Lab",
         "description": "live-cell pharmaceutical engineering"
       },
       {
-        "image": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@master/ZhangLab/hero/hero2.5xb39uh98l.webp",
+        "image": "ZhangLab/hero/hero2.5xb39uh98l.webp",
         "title": "Innovative Research",
         "description": "Biomaterials & Drug Delivery"
       },
       {
-        "image": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@master/ZhangLab/hero/hero3.b9cvztrn4.webp",
+        "image": "ZhangLab/hero/hero3.b9cvztrn4.webp",
         "title": "Cutting-Edge Technology",
         "description": "Advanced Nanomaterials & Nanomedicine"
       }
     ],
-    "backgroundImage": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@master/ZhangLab/hero/hero.5mo9bw58uc.webp"
+    "backgroundImage": "ZhangLab/hero/hero.5mo9bw58uc.webp"
   },
   "homeContent": {
     "sectionTitle": "Zhang<br>Lab",
@@ -69,11 +69,35 @@
   "announcements": [
     {
       "type": "publication",
+      "date": "January 2026",
+      "title": "Blood-Free Detection Strategy Based on Swellable Microneedle Patches for Neonatal Infection and Adult Health Management",
+      "journal": "Cell Reports Physical Science",
+      "authors": "TBA",
+      "link": {
+        "text": "Go publications",
+        "url": "./publications"
+      }
+    },
+    { 
+      "type": "publication",
+      "date": "December 2025",
+      "title": "Mannose-Modified Cationic Liposome-Based mRNA Therapeutics for Improved Triple-Negative Breast Cancer Immunotherapy",
+      "authors": "Kexin Deng, Juping Sun, Junyu Liu, Yuqi Zhang, Wanwan Liu, Xiaobin Li, Han Wu, Juan Li, Jisong Zhang, Chanyuan Jin, Can Yang Zhang*",
+      "journal": "Advanced NanoBiomed Research",
+      "link": {
+        "text": "Read paper",
+        "url": "https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/anbr.202500226?campaign=wolearlyview",
+        "external": true
+      },
+      "journalCover": "ZhangLab/advanced.onlinelibrary.wiley.com_doi_epdf_10.1002_anbr.202500226.5xb4aolmwo.webp"
+    },
+        {
+      "type": "publication",
       "date": "November 2025",
       "title": "Dissolved bubble microneedle patches for co-delivery of hydrophobic and hydrophilic drugs to improve acne vulgaris therapy",
       "journal": "Microsystems & Nanoengineering",
       "authors": "Xiaopeng Zhang, Xiaotong Zhao, Yiting Li, Wanyue Zhang, Yuanyuan Chen, Haidong Jia, Zhibing Zhang, Can Yang Zhang*",
-      "journalCover": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@master/ZhangLab/s41378-025-01079-y.102mbjocby.webp",
+      "journalCover": "ZhangLab/s41378-025-01079-y.102mbjocby.webp",
       "link": {
         "text": "Read paper",
         "url": "https://doi.org/10.1038/s41378-025-01079-y",

@@ -1,7 +1,7 @@
 {
   "hero": {
     "title": "Research",
-    "backgroundImage": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@master/ZhangLab/hero/rhero1.esyxm2z1h.webp"
+    "backgroundImage": "ZhangLab/hero/rhero1.esyxm2z1h.webp"
   },
   "content": {
     "sectionTitle": "Research<br>Focus",
@@ -13,19 +13,19 @@
   "interests": [
     {
       "text": "In situ Neutrophil Engineering in the Body",
-      "image": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@master/ZhangLab/researchs/ri1.102mjv71fs.webp"
+      "image": "ZhangLab/researchs/ri1.102mjv71fs.webp"
     },
     {
       "text": "Surface Engineering of Bacteria",
-      "image": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@master/ZhangLab/researchs/ri2.6m4cxqfh9h.webp"
+      "image": "ZhangLab/researchs/ri2.6m4cxqfh9h.webp"
     },
     {
       "text": "Microneedle-Mediated Neutrophil Engineering and Delivery",
-      "image": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@master/ZhangLab/researchs/ri3.2dp5nwijq6.webp"
+      "image": "ZhangLab/researchs/ri3.2dp5nwijq6.webp"
     },
     {
       "text": "AI for Formulation Design and Optimization",
-      "image": "https://cdn.jsdelivr.net/gh/PhyrridChan/picx-images-hosting@master/ZhangLab/researchs/ri4.2h8rlmbqxw.webp"
+      "image": "ZhangLab/researchs/ri4.2h8rlmbqxw.webp"
     }
   ]
 }
