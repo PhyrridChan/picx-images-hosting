@@ -28,11 +28,6 @@
       "label": "Contact",
       "number": "05",
       "path": "/contact"
-    },
-    {
-      "label": "Join Us",
-      "number": "06",
-      "path": "/join_us"
     }
   ],
   "footerLinks": [
