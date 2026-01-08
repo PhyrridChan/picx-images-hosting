@@ -28,9 +28,10 @@
     {
       "year": 2026,
       "title": "Blood-Free Detection Strategy Based on Swellable Microneedle Patches for Neonatal Infection and Adult Health Management",
-      "authors": "TBA",
+      "authors": Yiting Li, Xiaopeng Zhang, Junyu Liu, Fujia Kou, Xiaotong Zhao, Lei Chen, Wanyue Zhang, Li Yu, Xin-Hui Xing, Zhibing Zhang, Can Yang Zhang*",
       "journal": "Cell Reports Physical Science",
-      "type": "Journal Article"
+      "type": "Journal Article",
+      "abstract": "Infections are the leading cause of neonatal mortality, yet disease management remains challenging due to nonspecific clinical manifestations. Although serial blood analyses remain critical for monitoring disease progression, the small and fragile nature of neonatal vasculature makes venipuncture challenging. Interstitial fluid (ISF) offers a promising alternative to blood for rapid and convenient diagnosis. Here we report a universal detection strategy based on swellable microneedle patches (SMNPs) that enable painless ISF collection and multiple biomarker analysis via compatible with existing infrastructure. Experimental validation in neonatal rat models achieves infection detection (<10 minutes) through C-reactive protein (CRP) quantitation and reveals strong ISF-serum correlations for CRP. Moreover, clinical validation involving 46 human volunteers demonstrates accurate ISF quantification of uric acid (UA) and total cholesterol (TC), with strong ISF-serum correlations observed for both biomarkers. These findings emphasize the universal compatibility of SMNPs-based strategy for multiple biomarker detection, offering a transformative solution for health management."
     },
     { 
       "year": 2025,
