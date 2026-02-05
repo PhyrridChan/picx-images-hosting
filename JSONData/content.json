@@ -69,6 +69,17 @@
   "announcements": [
     {
       "type": "publication",
+      "date": "February 2026",
+      "title": "De Novo Developmet of Bioresponsive Nanoparticles with Antimicrobial Activity to Treat Bacterial Infections",
+      "authors": "TBA",
+      "journal": "Advanced Healthcare Materials",
+      "link": {
+        "text": "Go publications",
+        "url": "./publications"
+      }
+    },
+    {
+      "type": "publication",
       "date": "January 2026",
       "title": "Blood-Free Detection Strategy Based on Swellable Microneedle Patches for Neonatal Infection and Adult Health Management",
       "journal": "Cell Reports Physical Science",
@@ -90,19 +101,6 @@
         "external": true
       },
       "journalCover": "ZhangLab/advanced.onlinelibrary.wiley.com_doi_epdf_10.1002_anbr.202500226.5xb4aolmwo.webp"
-    },
-        {
-      "type": "publication",
-      "date": "November 2025",
-      "title": "Dissolved bubble microneedle patches for co-delivery of hydrophobic and hydrophilic drugs to improve acne vulgaris therapy",
-      "journal": "Microsystems & Nanoengineering",
-      "authors": "Xiaopeng Zhang, Xiaotong Zhao, Yiting Li, Wanyue Zhang, Yuanyuan Chen, Haidong Jia, Zhibing Zhang, Can Yang Zhang*",
-      "journalCover": "ZhangLab/s41378-025-01079-y.102mbjocby.webp",
-      "link": {
-        "text": "Read paper",
-        "url": "https://doi.org/10.1038/s41378-025-01079-y",
-        "external": true
-      }
     }
   ]
 }
