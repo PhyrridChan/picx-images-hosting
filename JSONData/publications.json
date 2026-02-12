@@ -28,9 +28,14 @@
     {
       "year": 2026,
       "title": "De Novo Developmet of Bioresponsive Nanoparticles with Antimicrobial Activity to Treat Bacterial Infections",
-      "authors": "TBA",
+      "authors": "Liang Zhao#, Junyu Liu#, Xiaobin Li#, Xupu Xing#, Yiting Li, Yun Chen, Yuqing Huang, Yi Wang, Shilong Zhang, Xin Dong Guo, Ruirui Qiao, Shun-ichiro Ogura, Takeharu Tsuge, Xin-Hui Xing, Can Yang Zhang*",
       "journal": "Advanced Healthcare Materials",
-      "type": "Journal Article"
+      "type": "Journal Article",
+      "url": "https://doi.org/10.1002/adhm.202505683",
+      "abstract": "Bacterial infections pose a major global health threat, exacerbated by the rise of antimicrobial resistance. However, antibiotics are losing efficacy due to the emergence of multidrug-resistant pathogens. Here, we reported a bioresponsive nanoparticle with antimicrobial activity and targeting effect to bypass the antimicrobial resistance and to improve the bacterial infections treatment. We established a mini library of quaternary ammonium compounds, and screened the N-benzyl-N-(n-(4-formyl-3,5-dimethoxyphenoxy)decyl)-N,N,N,N-tetramethylhexane-1,6-diaminium (BTA-10) that enabled high antimicrobial activity in vitro and safety in vivo, which was selected to conjugate with the poly(ethylene glycol) (PEG) via pH-responsive bond to synthesize amphiphilic copolymer for preparation of polymeric micelle, followed by decorating with anti-ICAM-1 as targeting ligand via click chemistry, resulting in bioresponsive nanoparticle (NPs-anti-ICAM-1). The anti-inflammatory drug TPCA-1 was physically loaded to enhance the therapeutic efficacy, to prepare the final therapeutic (TPCA-1@NPs-anti-ICAM-1). Upon intravenous injection, TPCA-1@NPs-anti-ICAM-1 can specifically target to the site of infection, and release the cargos (BTA-10 and TPCA-1) by responding to acids in the infection microenvironment. The in vivo studies demonstrated that TPCA-1@NPs-anti-ICAM-1 showed high therapeutic efficacy for acute lung infection and peritonitis in mouse. In summary, we reported a de novo-designed bioresponsive nanoparticle with antimicrobial activity, offering a promising approach to combat bacterial infections.",
+      "acknowledgement": {
+
+      }
     },
     {
       "year": 2026,

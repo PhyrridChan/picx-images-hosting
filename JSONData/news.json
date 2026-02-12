@@ -5,6 +5,21 @@
   },
   "items": [
     {
+      "date": "February 6th, 2026",
+      "title": "Team Building Activity and New Year Celebration",
+      "description": "The Zhang Lab held a team-building activity and New Year celebration, fostering camaraderie and celebrating the achievements of the past year, and looking forward to new opportunities in the coming year!",
+      "celebrate": true,
+      "celebrationType": "fireworks",
+      "images": [
+        "https://github.com/PhyrridChan/picx-images-hosting/raw/master/ZhangLab/news/260206.teambuilding.6.1hsqld28g9.webp",
+        "https://github.com/PhyrridChan/picx-images-hosting/raw/master/ZhangLab/news/260206.teambuilding.3.2vf9pedgp4.webp",
+        "https://github.com/PhyrridChan/picx-images-hosting/raw/master/ZhangLab/news/260206.teambuilding.1.8s3twetzlr.webp",
+        "https://github.com/PhyrridChan/picx-images-hosting/raw/master/ZhangLab/news/260206.teambuilding.2.et1ah6ek0.webp",
+        "https://github.com/PhyrridChan/picx-images-hosting/raw/master/ZhangLab/news/260206.teambuilding.5.pfv3mlt0m.webp",
+        "https://github.com/PhyrridChan/picx-images-hosting/raw/master/ZhangLab/news/260206.teambuilding.4.1zis9y3sa6.webp"
+      ]
+    },
+    {
       "date": "November 23rd, 2025",
       "title": "PhD Defense Celebration",
       "description": "We celebrate Liu Junyu's successful completion of his PhD defense.",

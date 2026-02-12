@@ -71,11 +71,12 @@
       "type": "publication",
       "date": "February 2026",
       "title": "De Novo Developmet of Bioresponsive Nanoparticles with Antimicrobial Activity to Treat Bacterial Infections",
-      "authors": "TBA",
+      "authors": "Liang Zhao#, Junyu Liu#, Xiaobin Li#, Xupu Xing#, Yiting Li, Yun Chen, Yuqing Huang, Yi Wang, Shilong Zhang, Xin Dong Guo, Ruirui Qiao, Shun-ichiro Ogura, Takeharu Tsuge, Xin-Hui Xing, Can Yang Zhang*",
       "journal": "Advanced Healthcare Materials",
       "link": {
-        "text": "Go publications",
-        "url": "./publications"
+        "text": "Read paper",
+        "url": "https://doi.org/10.1002/adhm.202505683",
+        "external": true
       }
     },
     {
