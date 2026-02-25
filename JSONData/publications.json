@@ -27,6 +27,25 @@
   "publications": [
     {
       "year": 2026,
+      "title": "Surface decoration of bacteria generates robust living therapeutics for improved ulcerative colitis therapy",
+      "authors": "Junyu Liu, Zhihao Fang, Xiaobin Li, Xiaopeng Zhang, Yun Chen, Fujia Kou, Long Huang, Huanxian Yang, Yilin Zheng, Yuqing Huang, Yi Wang, Xueqing Qiu, Jun Ge, Yong Qian*, Xin-Hui Xing* & Can Yang Zhang*",
+      "journal": "Communications Biology",
+      "type": "Journal Article",
+      "url": "https://www.nature.com/articles/s42003-026-09732-6",
+      "abstract": "Oral probiotics have shown great potential in treating ulcerative colitis (UC). However, gastrointestinal obstacles substantially inactivate probiotics, impeding delivery and colonization in the colon. Here, we developed robust oral living therapeutics with high colon-accumulating effect via surface decoration of probiotic (Escherichia coli Nissle 1917, EcN) using a layer-by-layer approach. Calcium ions and carboxymethyl-modified lignin (CML) were sequentially coated on EcN to generate an acid-resistant and colitis microenvironment-responsive system (CML@EcN). After oral administration in a male C57BL/6 N mouse model, EcN were specifically delivered to the site of colitis and successfully colonized. The CML@EcN notably alleviated colitis by modulating immune dysfunction, reshaping gut microbiota (GM), and repairing the intestinal barrier. The delivery mechanism was explored based on experiments and mathematical models. Interestingly, this engineering approach can be further used to decorate other bacteria. Consequently, the robust CML@EcN shows high colon-targeting delivery efficacy and great potential in UC therapy.",
+      "acknowledgement": {
+        "2023YFA0913600": "Key Research and Development Program of the Ministry of Science and Technology",
+        "2023YFA0913602": "Key Research and Development Program of the Ministry of Science and Technology",
+        "SMRF: B2302009": "Shenzhen Medical Research Fund (SMRF)",
+        "22278242": "National Natural Science Foundation of China",
+        "2021QN02Y225": "Pearl River Talent Program",
+        "KCXFZ20230731094459001": "Shenzhen Technology and Innovation Commission",
+        "HW2023009":"Department of Chemical Engineering-iBHE Joint Cooperation Fund and the Funds from Shenzhen International Graduate School at Tsinghua University",
+        "JC2021011":"Department of Chemical Engineering-iBHE Joint Cooperation Fund and the Funds from Shenzhen International Graduate School at Tsinghua University"
+      }
+    },
+    {
+      "year": 2026,
       "title": "De Novo Developmet of Bioresponsive Nanoparticles with Antimicrobial Activity to Treat Bacterial Infections",
       "authors": "Liang Zhao#, Junyu Liu#, Xiaobin Li#, Xupu Xing#, Yiting Li, Yun Chen, Yuqing Huang, Yi Wang, Shilong Zhang, Xin Dong Guo, Ruirui Qiao, Shun-ichiro Ogura, Takeharu Tsuge, Xin-Hui Xing, Can Yang Zhang*",
       "journal": "Advanced Healthcare Materials",

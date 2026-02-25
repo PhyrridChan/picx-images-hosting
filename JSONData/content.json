@@ -69,6 +69,18 @@
   "announcements": [
     {
       "type": "publication",
+      "date": "March 2026",
+      "title": "Surface decoration of bacteria generates robust living therapeutics for improved ulcerative colitis therapy",
+      "authors": "Junyu Liu, Zhihao Fang, Xiaobin Li, Xiaopeng Zhang, Yun Chen, Fujia Kou, Long Huang, Huanxian Yang, Yilin Zheng, Yuqing Huang, Yi Wang, Xueqing Qiu, Jun Ge, Yong Qian*, Xin-Hui Xing* & Can Yang Zhang*",
+      "journal": "Communications Biology",
+      "link": {
+        "text": "Read paper",
+        "url": "https://www.nature.com/articles/s42003-026-09732-6",
+        "external": true
+      }
+    },
+    {
+      "type": "publication",
       "date": "February 2026",
       "title": "De Novo Developmet of Bioresponsive Nanoparticles with Antimicrobial Activity to Treat Bacterial Infections",
       "authors": "Liang Zhao#, Junyu Liu#, Xiaobin Li#, Xupu Xing#, Yiting Li, Yun Chen, Yuqing Huang, Yi Wang, Shilong Zhang, Xin Dong Guo, Ruirui Qiao, Shun-ichiro Ogura, Takeharu Tsuge, Xin-Hui Xing, Can Yang Zhang*",
@@ -78,30 +90,6 @@
         "url": "https://doi.org/10.1002/adhm.202505683",
         "external": true
       }
-    },
-    {
-      "type": "publication",
-      "date": "January 2026",
-      "title": "Blood-Free Detection Strategy Based on Swellable Microneedle Patches for Neonatal Infection and Adult Health Management",
-      "journal": "Cell Reports Physical Science",
-      "authors": "Yiting Li, Xiaopeng Zhang, Junyu Liu, Fujia Kou, Xiaotong Zhao, Lei Chen, Wanyue Zhang, Li Yu, Xin-Hui Xing, Zhibing Zhang, Can Yang Zhang*",
-      "link": {
-        "text": "Go publications",
-        "url": "./publications"
-      }
-    },
-    { 
-      "type": "publication",
-      "date": "December 2025",
-      "title": "<span class='highlight'>FRONT COVER!</span> Mannose-Modified Cationic Liposome-Based mRNA Therapeutics for Improved Triple-Negative Breast Cancer Immunotherapy",
-      "authors": "Kexin Deng, Juping Sun, Junyu Liu, Yuqi Zhang, Wanwan Liu, Xiaobin Li, Han Wu, Juan Li, Jisong Zhang, Chanyuan Jin, Can Yang Zhang*",
-      "journal": "Advanced NanoBiomed Research",
-      "link": {
-        "text": "Read paper",
-        "url": "https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/anbr.202500226?campaign=wolearlyview",
-        "external": true
-      },
-      "journalCover": "ZhangLab/advanced.onlinelibrary.wiley.com_doi_epdf_10.1002_anbr.202500226.5xb4aolmwo.webp"
     }
   ]
 }
