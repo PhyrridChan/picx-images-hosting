@@ -27,6 +27,28 @@
   "publications": [
     {
       "year": 2026,
+      "title": "Biomimetic Cell Membrane-Coated MOFs System for Targeted Cancer Therapy",
+      "authors": "Qilu Wu, Jia Song Deon Chon, Yuxiao Feng, Kang Liang, Shiming Li*, Can Yang Zhang*, Jun Ge*",
+      "journal": "Advanced Science",
+      "type": "Journal Article",
+      "url": "https://doi.org/10.1002/advs.202521580",
+      "abstract": "The integration of metal-organic frameworks (MOFs) with cell membrane coatings has emerged as a revolutionary strategy to enhance the therapeutic efficacy of cancer nanomedicine. In this review, we systematically summarized recent advances in cell membrane-camouflaged MOF as drug delivery systems, focusing on their unique advantages in tumor targeting, immune evasion, and biocompatibility. By emulating the characteristics of natural cells, these biomimetic systems demonstrate enhanced circulation time, increased accumulation within tumors, and decreased uptake by macrophages. A critical analysis was conducted on a variety of membrane sources, including cancer cells, red blood cells, and macrophages. The analysis focused on the functionalities of these sources in tumor homing and immune modulation. The following design strategies are of particular interest: hybrid membrane engineering and stimuli-responsive drug release mechanisms. This field demonstrates considerable potential for combination therapies integrating chemotherapy, immunotherapy, and photothermal modalities. In the future, the development of new drugs should prioritize intelligent drug release systems and personalized treatment through advanced biomaterial engineering.",
+      "acknowledgement": {
+        "2023YFA0913600":"Key Research and Development Program of the Ministry of Science and Technology",
+        "22425803": "National Natural Science Foundation of China",
+        "22278242":"National Natural Science Foundation of China",
+        "2023Z02ORD001":"Tsinghua University Initiative Research Program",
+        "Z240030": "Beijing Natural Science Foundation",
+        "L248023": "Beijing Natural Science Foundation",
+        "KCXFZ20240903093102004": "Shenzhen Science and Technology Program",
+        "KCXFZ20230731094459001": "Shenzhen Science and Technology Program",
+        "2021QN02Y225": "Pearl River Talent Program",
+        "HW2023009":"Shenzhen International Graduate School at Tsinghua University",
+        "JC2021011":"Shenzhen International Graduate School at Tsinghua University"
+      }
+    },
+    {
+      "year": 2026,
       "title": "Surface decoration of bacteria generates robust living therapeutics for improved ulcerative colitis therapy",
       "authors": "Junyu Liu, Zhihao Fang, Xiaobin Li, Xiaopeng Zhang, Yun Chen, Fujia Kou, Long Huang, Huanxian Yang, Yilin Zheng, Yuqing Huang, Yi Wang, Xueqing Qiu, Jun Ge, Yong Qian*, Xin-Hui Xing* & Can Yang Zhang*",
       "journal": "Communications Biology",
