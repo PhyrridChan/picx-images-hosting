@@ -31,6 +31,15 @@
   "publications": [
     {
       "year": 2026,
+      "title": "PEGylated Cu-doped WS2 hybrid nanosheets for targeted multimodal cancer therapy",
+      "authors": "Dan Li, Chang Wen, Han Wu, Xiaobin Li, Xiaopeng Zhang, Wenbo Li, Yu Lei, Juan Li & Can Yang Zhang*",
+      "journal": "Microsystems & Nanoengineering",
+      "type": "Journal Article",
+      "url": "https://www.nature.com/articles/s41378-026-01218-z",
+      "abstract": "The existing clinical approaches for breast cancer treatment still face many major issues, including poor therapeutic efficacy and high side effects. To address these challenges, we developed a folic acid-functionalized PEGylated WS2 nanosheet system loaded with copper atoms and the chemotherapeutic agent doxorubicin (so-called Cu@WS2-PEG-FA/DOX) for enhanced multimodal cancer therapy. The folic acid was used as a targeting ligand by binding to folate receptors on tumor cells. The PEG-modification was used to enhance the biocompatibility of WS2 nanosheet, which exhibited high photothermal conversion efficiency. Both atomically dispersed Cu species and doxorubicin are successfully incorporated onto the nanosheet to enable chemodynamic therapy and chemotherapy, respectively. Upon laser irradiation, the Cu@WS2-PEG-FA/DOX system can effectively enhance the temperature with high photothermal conversion efficiency (τs = 2.1 min), trigger a Fenton-like reaction to promote reactive oxygen species, and release doxorubicin by responding to the weakly acidic environment at the tumor site. The in vitro results showed the high tumor inhibition activity of Cu@WS2-PEG-FA/DOX. The in vivo studies further confirmed that this hybrid nanosheet can specifically target the tumor site and achieve improved multimodal breast cancer therapy, and prolong the survival of tumour-bearing mice. This study developed a multifunctional nanoplatform for improved multimodal breast cancer therapy, offering a great potential synergistic therapeutic strategy for cancer treatment."
+    },
+    {
+      "year": 2026,
       "title": "Biomimetic Cell Membrane-Coated MOFs System for Targeted Cancer Therapy",
       "authors": "Qilu Wu, Jia Song Deon Chon, Yuxiao Feng, Kang Liang, Shiming Li*, Can Yang Zhang*, Jun Ge*",
       "journal": "Advanced Science",
