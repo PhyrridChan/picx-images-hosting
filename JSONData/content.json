@@ -67,29 +67,5 @@
     ]
   },
   "announcements": [
-    {
-      "type": "publication",
-      "date": "March 2026",
-      "title": "Surface decoration of bacteria generates robust living therapeutics for improved ulcerative colitis therapy",
-      "authors": "Junyu Liu, Zhihao Fang, Xiaobin Li, Xiaopeng Zhang, Yun Chen, Fujia Kou, Long Huang, Huanxian Yang, Yilin Zheng, Yuqing Huang, Yi Wang, Xueqing Qiu, Jun Ge, Yong Qian*, Xin-Hui Xing* & Can Yang Zhang*",
-      "journal": "Communications Biology",
-      "link": {
-        "text": "Read paper",
-        "url": "https://www.nature.com/articles/s42003-026-09732-6",
-        "external": true
-      }
-    },
-    {
-      "type": "publication",
-      "date": "February 2026",
-      "title": "De Novo Developmet of Bioresponsive Nanoparticles with Antimicrobial Activity to Treat Bacterial Infections",
-      "authors": "Liang Zhao#, Junyu Liu#, Xiaobin Li#, Xupu Xing#, Yiting Li, Yun Chen, Yuqing Huang, Yi Wang, Shilong Zhang, Xin Dong Guo, Ruirui Qiao, Shun-ichiro Ogura, Takeharu Tsuge, Xin-Hui Xing, Can Yang Zhang*",
-      "journal": "Advanced Healthcare Materials",
-      "link": {
-        "text": "Read paper",
-        "url": "https://doi.org/10.1002/adhm.202505683",
-        "external": true
-      }
-    }
   ]
 }
