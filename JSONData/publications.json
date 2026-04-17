@@ -31,6 +31,15 @@
   "publications": [
     {
       "year": 2026,
+      "title": "An enzyme-responsive block microneedle patch with cavity structure for advanced melasma therapy",
+      "authors": "Fu Jia Kou, Xiao Peng Zhang, Yi Ting Li, Xiao Tong Zhao, An Na Li, Wan Yue Zhang, Shitong Cui, Zhibing Zhang, Jun Ge, Can Yang Zhang*",
+      "journal": "AIChE Journal",
+      "type": "Journal Article",
+      "url": "https://aiche.onlinelibrary.wiley.com/doi/abs/10.1002/aic.70413",
+      "abstract": "Melasma is a prevalent hyperpigmentation disorder with suboptimal treatment outcomes and frequent relapse, which seriously affects patients' psychological well-being, social life, and self-esteem. Current therapies including topical agents, chemical peels, and photo-therapies yield only partial and temporary improvements with severe side effects. Here, we proposed the enzyme-responsive embedded-cavity microneedle patches (ECMNPs) system for sustained melasma therapy. The MN tips are composed of hyaluronic acid, which dissolves subcutaneously to repair the skin barrier, can regulate the microenvironment and reduce hyperpigmentation triggered by external stimuli. The internal cavities as drug reservoirs enabled sustained release through enzyme-triggered degradation of the needle matrix, eliminating the microneedle for repeated penetration. Systematic evaluations, including morphological characterization, mechanical testing, porosity analysis, and drug release mechanism, confirmed the superior physical properties of ECMNPs. Studies in vitro and in vivo confirmed the high therapeutic efficacy and biosafety, proving the huge potential of ECMNPs in advanced melasma therapy."
+    },
+    {
+      "year": 2026,
       "title": "PEGylated Cu-doped WS2 hybrid nanosheets for targeted multimodal cancer therapy",
       "authors": "Dan Li, Chang Wen, Han Wu, Xiaobin Li, Xiaopeng Zhang, Wenbo Li, Yu Lei, Juan Li & Can Yang Zhang*",
       "journal": "Microsystems & Nanoengineering",
