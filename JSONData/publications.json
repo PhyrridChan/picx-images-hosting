@@ -31,6 +31,15 @@
   "publications": [
     {
       "year": 2026,
+      "title": "Deep learning-driven integrated pipeline for de novo design and synthesis of antimicrobial peptides",
+      "authors": "Jiahui Liu, Yun Chen, Jian Tang, Xupu Xing, Jin-Shun Lin, Juping Sun, Xin-Hui Xing, Juan Li & Can Yang Zhang*",
+      "journal": "npj Drug Discovery",
+      "type": "Journal Article",
+      "url": "https://www.nature.com/articles/s44386-026-00045-6",
+      "abstract": "Antimicrobial peptides (AMPs) are promising alternatives to conventional antibiotics against bacterial infections. However, the discovery of AMPs is impeded by the limitations of biochemical screening and the difficulty computational approaches face in balancing efficacy with structural diversity. We proposed an integrated “generation-evaluation-validation” framework to facilitate de novo discovery of AMPs. First, we constructed a soft prompt-tuned ProtGPT2 to efficiently generate candidates AMPs with both novel structures and promising therapeutic potential. Secondly, we adopted a multiple-choice learning ensemble model that enables high-confidence evaluation of candidates via a dynamic voting network. Finally, antimicrobial experiments were used to validate the activity of top-ranked de novo AMPs by monitoring bacterial surface changes. Out of nine candidates, four exhibited potent strain-specific activity, while two demonstrated broad-spectrum efficacy. All tested AMPs exhibited strong biofilm inhibition, potent membrane disruption, and minimal hemolysis, indicating significant therapeutic potential. With strong generalizability and versatility beyond AMPs, the proposed framework’s modular design will facilitate adaptation to diverse peptide design tasks in the future. By integrating soft prompt tuning, multimodal ensemble learning, and experimental verification, this framework presents a practical and scalable strategy for rapid, resource-efficient de novo peptide discovery, particularly suited for applications where experimental throughput and cost are critical constraints."
+    },
+    {
+      "year": 2026,
       "title": "An enzyme-responsive block microneedle patch with cavity structure for advanced melasma therapy",
       "authors": "Fu Jia Kou, Xiao Peng Zhang, Yi Ting Li, Xiao Tong Zhao, An Na Li, Wan Yue Zhang, Shitong Cui, Zhibing Zhang, Jun Ge, Can Yang Zhang*",
       "journal": "AIChE Journal",
