@@ -67,6 +67,62 @@
     ]
   },
   "announcements": [
-    
+        {
+      "type": "publication",
+      "date": "March 2026",
+      "title": "Surface decoration of bacteria generates robust living therapeutics for improved ulcerative colitis therapy",
+      "authors": "Junyu Liu, Zhihao Fang, Xiaobin Li, Xiaopeng Zhang, Yun Chen, Fujia Kou, Long Huang, Huanxian Yang, Yilin Zheng, Yuqing Huang, Yi Wang, Xueqing Qiu, Jun Ge, Yong Qian*, Xin-Hui Xing* & Can Yang Zhang*",
+      "journal": "Communications Biology",
+      "link": {
+        "text": "Read paper",
+        "url": "https://www.nature.com/articles/s42003-026-09732-6",
+        "external": true
+      }
+    },
+    {
+      "type": "publication",
+      "date": "February 2026",
+      "title": "De Novo Developmet of Bioresponsive Nanoparticles with Antimicrobial Activity to Treat Bacterial Infections",
+      "authors": "Liang Zhao#, Junyu Liu#, Xiaobin Li#, Xupu Xing#, Yiting Li, Yun Chen, Yuqing Huang, Yi Wang, Shilong Zhang, Xin Dong Guo, Ruirui Qiao, Shun-ichiro Ogura, Takeharu Tsuge, Xin-Hui Xing, Can Yang Zhang*",
+      "journal": "Advanced Healthcare Materials",
+      "link": {
+        "text": "Read paper",
+        "url": "https://doi.org/10.1002/adhm.202505683",
+        "external": true
+      }
+    },
+    {
+      "type": "award",
+      "date": "May 12th, 2026",
+      "title": "Another Gold! Gold Prize at the 2026 Evaluations Days",
+      "description": "Our team's project \"Intelligent Manufacturing System for Colon-Targeted Oral Probiotics\" won the gold prize in the online participation category of the 2026 Evaluations Days. Congratulations to He Yumao, Huang Yuqing, Liu Junyu, Gao Dan, Zhang Xiaopeng, and Prof. Zhang!",
+      "link": {
+        "text": "Learn more",
+        "url": "/news",
+        "external": false
+      }
+    },
+    {
+      "type": "award",
+      "date": "April 18th, 2026",
+      "title": "Award-Winning at the 4th iBHE International Graduate Forum",
+      "description": "Congratulations to our team for winning multiple awards at the 4th Biopharmaceutical and Health Engineering Cup International Graduate Forum of iBHE — Best Poster Award (Xiaobin Li & Xiaotong Zhao), Innovation and Entrepreneurship Award (Yiting Li & Xiaotong Zhao), and Best Oral Presentation Award (Wanyue Zhang).",
+      "link": {
+        "text": "Learn more",
+        "url": "/news",
+        "external": false
+      }
+    },
+    {
+      "type": "award",
+      "date": "April 14th, 2026",
+      "title": "Wanyue Zhang Receives the Academic Innovation Scholarship",
+      "description": "Congratulations to Wanyue Zhang on being awarded the 学术新风奖学金 (Academic Innovation Scholarship) for her outstanding academic performance in the 2025-2026 academic year.",
+      "link": {
+        "text": "Learn more",
+        "url": "/news",
+        "external": false
+      }
+    }
   ]
 }

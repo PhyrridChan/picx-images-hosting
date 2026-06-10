@@ -31,6 +31,24 @@
   "publications": [
     {
       "year": 2026,
+      "title": "pH/enzyme dual-responsive nanoparticles hitchhike neutrophils to enhance bacteria-induced acute lung infection treatment",
+      "authors": "Lan Qin, Xiaobin Li, Juping Sun, Yiting Li, Anna Li, Xupu Xing, Chang Wen, Yun Chen, Yumao He, Jianmei Wang, Juan Li, Can Yang Zhang*",
+      "journal": "International Journal of Pharmaceutics",
+      "type": "Journal Article",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0378517326004953",
+      "abstract": "Acute lung infection (ALI) represents a major global health challenge with high morbidity and mortality. The current clinical approach primarily relies on antibiotic therapy, yet the therapeutic efficacy is severely limited by poor drug targeted delivery. Here, we developed neutrophil-hijacking pH/enzyme dual-responsive rifampicin-loaded nanoparticles (RFP‑NENPs) composed of pH-sensitive polymer (mPEG2K-PAE) and enzyme-responsive polymer PCL-PEG2K decorated with neutrophil elastase-targeting peptide, which can self-assemble into nanoparticles. After intravenous injection, the RFP‑NENPs can specifically target and hijack neutrophils in vivo, and deposit at the infectious site due to inflammatory chemotaxis of pro-inflammatory neutrophils via the immune response, followed by releasing the cargos due to the low pH and bacterial enzymes in the infectious microenvironment. In a mouse model of acute lung infection by Staphylococcus aureus, RFP‑NENPs effectively cleared the bacteria and caused no detectable systemic toxicity. This work not only presents an effective therapeutic for enhanced acute lung infection treatment, but also offers a neutrophil-mediated drug delivery strategy."
+    },
+    {
+      "year": 2026,
+      "title": "Enabling Clinical Translation of Oral Probiotics Through Formulation Engineering and Scalable Manufacturing",
+      "authors": "Junyu Liu, Yuqi Zhang, Yuqing Huang, Xiaobin Li, Xiangxuan Huang, Xin-Hui Xing, Can Yang Zhang*",
+      "journal": "Biotechnology Journal",
+      "type": "Journal Article",
+      "url": "https://doi.org/10.1002/biot.70253",
+      "abstract": "Oral probiotics, as living therapeutics, hold considerable promise for modulating host health and preventing diseases, with substantial potential for industrial and clinical applications. However, their efficacy is substantially limited by gastrointestinal degradation and inadequate colonization, and the oversimplified linear correlation between strain survival and therapeutic efficacy, further hinder their clinical translation. This review first provides a systematic overview of current formulation approaches in oral probiotics, encompassing advanced coating techniques based on electrostatic, covalent, coordinate, bio-recognitive interactions, and synthetic biology-driven strain engineering. We emphasize the functional output of probiotic formulations as the core therapeutic driver, rather than merely structural protection. Then, the scalable manufacturing platforms including high-density fermentation and microfluidic encapsulation are summarized. The advantages and limitations of these approaches are critically assessed with regard to viability protection, targeting efficacy, industrial feasibility, and functional output for diverse diseases including colorectal cancer (CRC), inflammatory bowel disease (IBD), metabolic disorders, and neuroinflammatory conditions. Looking ahead, the convergence of multiple technological platforms is expected to drive the development of next-generation probiotic formulations. We believe that intelligently engineered oral probiotics are poised to become a safe, effective and personalized therapeutics, paving the way for their clinical adoption in precision medicine."
+    },
+    {
+      "year": 2026,
       "title": "Deep learning-driven integrated pipeline for de novo design and synthesis of antimicrobial peptides",
       "authors": "Jiahui Liu, Yun Chen, Jian Tang, Xupu Xing, Jin-Shun Lin, Juping Sun, Xin-Hui Xing, Juan Li & Can Yang Zhang*",
       "journal": "npj Drug Discovery",
