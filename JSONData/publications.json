@@ -31,6 +31,15 @@
   "publications": [
     {
       "year": 2026,
+      "title": "Programmed oral delivery of peptide therapeutics for multiorgan targeting in metabolic disorders of hyperglycemia and hyperuricemia",
+      "authors": "Junyu Liu, Xupu Xing, Chang Wen, Haihong Chen, Wei Li, Yuqing Huang, Yi Wang, Xin-Hui Xing, Can Yang Zhang*",
+      "journal": "Science Advances",
+      "type": "Journal Article",
+      "url": "https://doi.org/10.1126/sciadv.aef3323",
+      "abstract": "Systemic metabolic disorders such as diabetes and hyperuricemia demand multiorgan therapeutic intervention, yet single-target therapies often fail to restore homeostasis. Here, we present an orally administered, multistage-targeted nanoplatform (P1P2NPs) for the sequential delivery of therapeutic peptides to distinct organs. P1P2NPs is composed of a bioresponsive polymer poly(β-amino ester)-disulfide bond-poly(carboxybetaine) (PAE-SS-PCB), 1,2-distearoyl-sn-glycero-3-phosphoethanolamine-block poly(carboxybetaine) (DSPE-PCB) and Eudragit L100-55, designed to release peptide P2 (Val-Pro-Tyr-Pro-Gln) in the intestine for dipeptidyl peptidase-IV (DPP-IV) inhibition, while hepatic-targeted peptide P1 (Pro-Pro-Lys-Asn-Trp) is selectively liberated in the liver to suppress xanthine oxidase (XOD). Fabricated through sequential emulsification and layer-by-layer assembly, P1P2NPs exhibit spatiotemporal control over drug release, enabling precise modulation of intestinal and hepatic metabolic pathways. In a murine model of diabetic-hyperuricemia comorbidity, the nanoplatform demonstrated synergistic efficacy by normalizing glucose and uric acid levels through multiorgan targeting. This work establishes a paradigm for spatially controlled peptide delivery, offering a versatile strategy for treating complex metabolic diseases."
+    },
+    {
+      "year": 2026,
       "title": "pH/enzyme dual-responsive nanoparticles hitchhike neutrophils to enhance bacteria-induced acute lung infection treatment",
       "authors": "Lan Qin, Xiaobin Li, Juping Sun, Yiting Li, Anna Li, Xupu Xing, Chang Wen, Yun Chen, Yumao He, Jianmei Wang, Juan Li, Can Yang Zhang*",
       "journal": "International Journal of Pharmaceutics",
