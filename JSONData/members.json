@@ -52,19 +52,7 @@
   "groups": [
     {
       "title": "Postdoctoral Fellows",
-      "members": [
-        {
-          "name": "Dr. Xiaopeng ZHANG PhD",
-          "image": "ZhangLab/members/zxp2.2rvl63ys3i.webp",
-          "joinDate": "2022.1",
-          "tags": [
-            "Microneedles",
-            "Drug Delivery"
-          ],
-          "researchText": "Preparation of polymer microneedles and development of soluble insulin microneedles",
-          "description": "I was born in Ningxia province and received my Ph.D. degree from Beijing University of Chemical Technology (BUCT) in December 2021. My Ph.D. study mainly focuses on the design, fabrication, and stability studies of polymer microneedles. Now, I'm working as a post-doctoral student in Tsinghua Shenzhen International Graduate School. My research interests include nanobiotechnology, controlled drug delivery and microneedle for beauty or treatment of diseases such as cancer and diabetes.",
-          "imageScale": "1.2"
-        },
+      "members": [        
         {
           "name": "Dr. Zohaib Hafiz Muhammad PhD",
           "image": "ZhangLab/members/Zohaib-Hafiz-Muhammad2.45i4a59u4e.webp",
@@ -108,20 +96,6 @@
     {
       "title": "PhD Candidates",
       "members": [
-        {
-          "name": "Xiaobin LI",
-          "image": "ZhangLab/members/lxb2.3gouq4zi02.webp",
-          "joinDate": "2022.9",
-          "tags": [
-            "Poly (β-amino ester)",
-            "Drug Delivery",
-            "Cancer Therapy"
-          ],
-          "researchText": "Fabrication and function of pH-sensitive poly (β-amino ester) (PAE) and developing PAE-based targeted drug delivery systems.",
-          "description": "My research focuses on the fabrication and function of pH-sensitive poly (β-amino ester) (PAE) and developing PAE-based targeted drug delivery systems via the bioengineering strategy to treat cancers and manage inflammation effectively with reduced side effects.",
-          "imagePosition": "15%",
-          "imageScale": "1.6"
-        },
         {
           "name": "Yilin ZHENG",
           "image": "ZhangLab/members/zyl1.1vz3qo2ajl.webp",
@@ -199,32 +173,6 @@
           "imageScale": "1.2"
         },
         {
-          "name": "Yuqi ZHANG",
-          "image": "ZhangLab/members/zyq2.6bhivxeora.webp",
-          "joinDate": "2025.9",
-          "tags": [
-            "Biosilicification",
-            "Sono-immunotherapy"
-          ],
-          "researchText": "Biosilicification-assisted sono-immunotherapy.",
-          "description": "I come from Weifang, Shandong province. After receiving my master's degree from South China University of Technology in 2024, I joined Zhang's group. My research background is biosilicification-assisted sono-immunotherapy.",
-          "imagePosition": "15%",
-          "imageScale": "1.6"
-        },
-        {
-          "name": "Juping SUN",
-          "image": "ZhangLab/members/sjp.9rjuo0obte.webp",
-          "joinDate": "2025.9",
-          "tags": [
-            "Peptide Hydrogel",
-            "Ulcerative Colitis"
-          ],
-          "researchText": "Self-assembled defense peptide hydrogel and the treatment of ulcerative colitis.",
-          "description": "I'm from Zibo, Shandong Province. After receiving my master's degree from the University of Chinese Academy of Sciences in 2024, I joined Zhang's group. I have a research background in self-assembled defense peptide hydrogel and the treatment of ulcerative colitis.",
-          "imagePosition": "15%",
-          "imageScale": "1.6"
-        },
-        {
           "name": "MD Foridul Islam",
           "image": "ZhangLab/members/forid.1apg4d7u85.webp",
           "joinDate": "2025.9",
@@ -236,64 +184,12 @@
           "description": "I am from Bangladesh. After receiving my Master’s degree in Chemistry and Physics of Polymers from the University of Chinese Academy of Sciences in 2025, I joined Professor Zhang’s group as a PhD student majoring in Chemical Engineering and Technology. I am excited to continue my research journey here and look forward to learning from my groupmates while contributing to the team's success.",
           "imagePosition": "15%",
           "imageScale": "1.6"
-        },
-        {
-          "name": "Ziqing Liang",
-          "image": "ZhangLab/members/lzq.8adpm9k72c.webp",
-          "joinDate": "2025.9",
-          "tags": [
-            "Antibacterial Materials"
-          ],
-          "researchText": "Stimuli-responsive antibacterial materials.",
-          "description": "I am from Guangzhou, Guangdong Province. After obtaining a master 's degree from the University of Science and Technology of China in 2025, I joined Zhang 's group. My research background is stimuli-responsive antibacterial materials.",
-          "imagePosition": "-5%",
-          "imageScale": "1.6"
         }
       ]
     },
     {
       "title": "Graduate Students",
       "members": [
-        {
-          "name": "Xiaotong ZHAO",
-          "image": "ZhangLab/members/zxt.77e0bebbxo.webp",
-          "joinDate": "2023.9",
-          "description": "I come from Guangzhou, Guangdong Province. After obtaining my bachelor's degree in the Food Science and Engineering Department of SCUT, I joined Zhang's group to pursue my master's degree. My major is Precision Medicine and Healthcare. Can't wait to get to know everyone!",
-          "imagePosition": "15%",
-          "imageScale": "1.7"
-        },
-        {
-          "name": "Wanyue ZHANG",
-          "image": "ZhangLab/members/zwy.83ahqul0dn.webp",
-          "joinDate": "2023.9",
-          "description": "I come from Nanjing, Jiangsu Province. I received my Bachelor's degree in biomedical engineering from Southeast University. I joined Zhang's group as a graduate student in 2023. My research direction is mainly about microneedles.",
-          "imagePosition": "22%",
-          "imageScale": "1.7"
-        },
-        {
-          "name": "Yuqing HUANG",
-          "image": "ZhangLab/members/hyq2.5mo9bxe4h6.webp",
-          "joinDate": "2023.9",
-          "description": "I come from Fuzhou, Fujian Province. I am a postgraduate student in iBHE and major in Precision Medicine and Healthcare. Before joining Zhang's lab, I received my bachelor 's degree from Ocean University of China. In my spare time, I like photography, reading and watching movies. Hope that we can have good time here!",
-          "imagePosition": "5%",
-          "imageScale": "1.7"
-        },
-        {
-          "name": "Jian TANG",
-          "image": "ZhangLab/members/tj.4n85yrbdbd.webp",
-          "joinDate": "2023.9",
-          "description": "I am from Chongqing and received my bachelor's degree in biomedical engineering from BUAA. As a postgraduate student in iBHE, I joined Zhang's group in 2023.",
-          "imagePosition": "-5%",
-          "imageScale": "1.1"
-        },
-        {
-          "name": "Han WU",
-          "image": "ZhangLab/members/wh.51elpmjo6g.webp",
-          "joinDate": "2023.9",
-          "description": "I am from Weifang, Shandong Province. After obtaining my Bachelor's degree in Chemical Engineering from Qingdao University.I joined Zhang's group in 2023.",
-          "imagePosition": "8%",
-          "imageScale": "1.5"
-        },
         {
           "name": "Yumao HE",
           "image": "ZhangLab/members/hym.lw6kd79yf.webp",
@@ -371,6 +267,48 @@
   ],
   "alumni": [
     {
+    "name": "Xiaopeng Zhang",
+    "year": "2026",
+    "position": "Postdoc",
+    "current": "BUCT"
+  },
+  {
+    "name": "Xiaobin Li",
+    "year": "2026",
+    "position": "PhD",
+    "current": "China GRINM Group Co., Ltd."
+  },
+  {
+    "name": "Wanyue Zhang",
+    "year": "2026",
+    "position": "Master",
+    "current": ""
+  },
+  {
+    "name": "Yuqing Huang",
+    "year": "2026",
+    "position": "Master",
+    "current": ""
+  },
+  {
+    "name": "Jian Tang",
+    "year": "2026",
+    "position": "Master",
+    "current": ""
+  },
+  {
+    "name": "Han Wu",
+    "year": "2026",
+    "position": "Master",
+    "current": ""
+  },
+  {
+    "name": "Xiaotong Zhao",
+    "year": "2026",
+    "position": "Master",
+    "current": "Further study"
+  },
+  {
     "name": "Junyu Liu",
     "year": "2025",
     "position": "PHD",
