@@ -69,6 +69,18 @@
   "announcements": [
         {
       "type": "publication",
+      "date": "June 29th, 2026",
+      "title": "<span class=\"highlight\">New Publication!</span> Thermoresponsive Nanoparticles Hijack Neutrophils In Vivo to In Situ Construct Biohybrids for Enhanced Cancer and Infection Therapy",
+      "authors": "Xiaobin Li, Yun Chen, Xupu Xing, Chang Wen, Juping Sun, Yiting Li, Yuqi Zhang, Yingshi Su, Shaohua Ma, Peter E. Lobie, Xin-Hui Xing, Wei Tao, Can Yang Zhang*",
+      "journal": "ACS Nano",
+      "link": {
+        "text": "Read paper",
+        "url": "https://doi.org/10.1021/acsnano.6c05620",
+        "external": true
+      }
+    },
+        {
+      "type": "publication",
       "date": "June 2026",
       "title": "Programmed oral delivery of peptide therapeutics for multiorgan targeting in metabolic disorders of hyperglycemia and hyperuricemia",
       "authors": "Junyu Liu, Xupu Xing, Chang Wen, Haihong Chen, Wei Li, Yuqing Huang, Yi Wang, Xin-Hui Xing, Can Yang Zhang*",
@@ -108,28 +120,6 @@
       "date": "May 12th, 2026",
       "title": "Another Gold! Gold Prize at the 2026 Evaluations Days",
       "description": "Our team's project \"Intelligent Manufacturing System for Colon-Targeted Oral Probiotics\" won the gold prize in the online participation category of the 2026 Evaluations Days. Congratulations to He Yumao, Huang Yuqing, Liu Junyu, Gao Dan, Zhang Xiaopeng, and Prof. Zhang!",
-      "link": {
-        "text": "Learn more",
-        "url": "/news",
-        "external": false
-      }
-    },
-    {
-      "type": "award",
-      "date": "April 18th, 2026",
-      "title": "Award-Winning at the 4th iBHE International Graduate Forum",
-      "description": "Congratulations to our team for winning multiple awards at the 4th Biopharmaceutical and Health Engineering Cup International Graduate Forum of iBHE — Best Poster Award (Xiaobin Li & Xiaotong Zhao), Innovation and Entrepreneurship Award (Yiting Li & Xiaotong Zhao), and Best Oral Presentation Award (Wanyue Zhang).",
-      "link": {
-        "text": "Learn more",
-        "url": "/news",
-        "external": false
-      }
-    },
-    {
-      "type": "award",
-      "date": "April 14th, 2026",
-      "title": "Wanyue Zhang Receives the Academic Innovation Scholarship",
-      "description": "Congratulations to Wanyue Zhang on being awarded the 学术新风奖学金 (Academic Innovation Scholarship) for her outstanding academic performance in the 2025-2026 academic year.",
       "link": {
         "text": "Learn more",
         "url": "/news",
