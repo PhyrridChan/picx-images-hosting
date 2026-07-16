@@ -26,6 +26,10 @@
     {
       "url": "https://doi.org/10.1002/anbr.202500226",
       "img": "ZhangLab/publications/fc5.92qou840c3.webp"
+    },
+    {
+      "url": "https://doi.org/10.1021/acsnano.6c05620",
+      "img": "ZhangLab/publications/fc7.wj92jcy0a.webp"
     }
   ],
   "publications": [
@@ -35,6 +39,7 @@
       "authors": "Xiaobin Li, Yun Chen, Xupu Xing, Chang Wen, Juping Sun, Yiting Li, Yuqi Zhang, Yingshi Su, Shaohua Ma, Peter E. Lobie, Xin-Hui Xing, Wei Tao, Can Yang Zhang*",
       "journal": "ACS Nano",
       "type": "Journal Article",
+      "note": "Front Cover Article",
       "url": "https://doi.org/10.1021/acsnano.6c05620",
       "abstract": "Neutrophils are an ideal drug carrier because of their specific targeting and effective accumulation at sites of inflammation. However, the clinical application of neutrophils as drug carriers is constrained by the inability to sustain ex vivo culture and their short lifespan. Herein, we developed an in situ construction strategy to fabricate neutrophil-nanoparticle biohybrid systems (NE@NPs) in vivo by specifically hijacking the pro-inflammatory neutrophils in blood using thermoresponsive drug-loaded NPs. The pro-inflammatory neutrophils effectively transport these NPs to the tumor microenvironment across the vascular barriers, followed by the release of the NPs through neutrophil extracellular traps (NETs). Subsequent near-infrared (NIR) light-induced spatiotemporally drug-controlled release improved the therapeutic response. The therapeutic efficacy of in situ-constructed NE@NPs is successfully confirmed using multiple mouse models of cancer, pulmonary, and skin infections. This study illustrates that the in situ construction strategy of neutrophil-NP hybrid systems in vivo may be a promising approach for improving inflammation-associated disease treatment."
     },
