@@ -184,6 +184,31 @@
           "description": "I am from Bangladesh. After receiving my Master’s degree in Chemistry and Physics of Polymers from the University of Chinese Academy of Sciences in 2025, I joined Professor Zhang’s group as a PhD student majoring in Chemical Engineering and Technology. I am excited to continue my research journey here and look forward to learning from my groupmates while contributing to the team's success.",
           "imagePosition": "15%",
           "imageScale": "1.6"
+        },
+        {
+          "name": "Kun YANG",
+          "image": "ZhangLab/members/yk.45ief5hkhf.webp",
+          "joinDate": "2026.9",
+          "tags": [
+            "Oral Delivery"
+          ],
+          "researchText": "The development and application of novel oral drug delivery systems.",
+          "description": "I come from Deyang City, Sichuan Province. After obtaining my master's degree from Tianjin University in 2026, I joined Zhang's group at Tsinghua Shenzhen International Graduate School. I have a research background in targeted oral drug delivery for the treatment of inflammatory bowel disease, and my current research mainly focuses on the development and application of novel oral drug delivery systems.",
+          "imagePosition": "8.5%",
+          "imageScale": "1.4"
+        },
+        {
+          "name": "Xiaotong ZHAO",
+          "image": "ZhangLab/members/zxt2.64el5hsd8s.webp",
+          "joinDate": "2026.9",
+          "tags": [
+            "Microneedle Design and Fabrication",
+            "Drug Delivery"
+          ],
+          "researchText": "Microneedle-based drug delivery systems for biomedical applications.",
+          "description": "I am from Guangzhou, Guangdong Province. After completing my master's degree in Biomedical Engineering at Tsinghua University, I will pursue my doctoral studies in Chemical Engineering and Technology and continue my research in the Zhang Lab. I have prior research experience in microneedle fabrication, and my future work will focus on microneedle-based drug delivery.",
+          "imagePosition": "12%",
+          "imageScale": "1.4"
         }
       ]
     },
@@ -301,12 +326,6 @@
     "year": "2026",
     "position": "Master",
     "current": ""
-  },
-  {
-    "name": "Xiaotong Zhao",
-    "year": "2026",
-    "position": "Master",
-    "current": "Further study"
   },
   {
     "name": "Junyu Liu",

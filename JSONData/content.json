@@ -67,6 +67,17 @@
     ]
   },
   "announcements": [
+    {
+      "type": "recruitment",
+      "date": "August 21st, 2026",
+      "title": "Welcome Kun YANG and Xiaotong ZHAO to the Zhang Lab",
+      "description": "We warmly welcome Kun YANG and Xiaotong ZHAO, who join us as PhD students this Fall. Kun will work on novel oral drug delivery systems, while Xiaotong continues her research on microneedle-based drug delivery. Welcome aboard!",
+      "link": {
+        "text": "Meet our team",
+        "url": "/members",
+        "external": false
+      }
+    },
         {
       "type": "publication",
       "date": "June 29th, 2026",
