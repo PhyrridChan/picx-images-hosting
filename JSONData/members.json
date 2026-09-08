@@ -286,6 +286,46 @@
           "description": "I come from Baoding,Hebei Province.After obtaining my Bachelor's degree in Department of Automation from Tsinghua University.I joined Zhang's group in 2025. My research focuses on LLM. I look forward to learning and making progress together with everyone.",
           "imagePosition": "18%",
           "imageScale": "1.4"
+        },
+        {
+          "name": "Qiqi GE",
+          "image": "ZhangLab/members/gqq2.1i13eb9rp0.webp",
+          "joinDate": "2026.9",
+          "description": "I come from Suzhou, Jiangsu Province. My undergraduate major was Pharmaceutical Engineering at Changzhou University. At present, I conduct research in Professor Zhang's team for my master's program of Materials and Chemical Engineering. It would be my great pleasure to communicate with you and achieve mutual-progress",
+          "imagePosition": "-3%",
+          "imageScale": "1.5"
+        },
+        {
+          "name": "Huai Yi WONG",
+          "image": "ZhangLab/members/why2.3prz10bqjv.webp",
+          "joinDate": "2026.9",
+          "description": "I come from Malaysia. I completed my undergraduate studies in Marine Biotechnology at Xiamen University Malaysia. After that, I joined Professor Zhang's lab to pursue my master's degree. I look forward to learning and growing together with all of you.",
+          "imagePosition": "0%",
+          "imageScale": "1"
+        },
+        {
+          "name": "Pimnipa Chaijaraswong",
+          "image": "ZhangLab/members/cpn.oog3scxm0a.webp",
+          "joinDate": "2026.9",
+          "description": "I'm from Bangkok, Thailand and completed my Bachelor's in Biomedical Science (International Program) at Mahidol University. I'm now join Professor Zhang's group to pursue my master's degree in Precision Medicine and Healthcare. Looking forward to making good memories here and progress together.",
+          "imagePosition": "10%",
+          "imageScale": "1.5"
+        },
+        {
+          "name": "Cathleen Rebecca",
+          "image": "ZhangLab/members/crb.4skgzz3vn8.webp",
+          "joinDate": "2026.09",
+          "description": "I was born in Jakarta, Indonesia and received my bachelor's degree from Atma Jaya Catholic University of Indonesia.  I am currently a Master's student at Tsinghua Shenzhen International Graduate School. ",
+          "imagePosition": "-5%",
+          "imageScale": "1.1"
+        },
+        {
+          "name": "Mengyu Yang",
+          "image": "ZhangLab/members/ymy2.nqyl6ds2vu.webp",
+          "joinDate": "2026.9",
+          "description": "I come from Ningbo, Zhejiang Province. Before joining SIGS, I obtained my bachelor’s degree in Jilin University. I joined Zhang's group in 2026. I look forward to diving into research and gaining valuable insights in the lab.",
+          "imagePosition": "-25%",
+          "imageScale": "1.5"
         }
       ]
     }
