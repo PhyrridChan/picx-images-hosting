@@ -308,8 +308,8 @@
           "image": "ZhangLab/members/cpn.oog3scxm0a.webp",
           "joinDate": "2026.9",
           "description": "I'm from Bangkok, Thailand and completed my Bachelor's in Biomedical Science (International Program) at Mahidol University. I'm now join Professor Zhang's group to pursue my master's degree in Precision Medicine and Healthcare. Looking forward to making good memories here and progress together.",
-          "imagePosition": "10%",
-          "imageScale": "1.5"
+          "imagePosition": "-12%",
+          "imageScale": "1.12"
         },
         {
           "name": "Cathleen Rebecca",
@@ -326,6 +326,14 @@
           "description": "I come from Ningbo, Zhejiang Province. Before joining SIGS, I obtained my bachelor’s degree in Jilin University. I joined Zhang's group in 2026. I look forward to diving into research and gaining valuable insights in the lab.",
           "imagePosition": "-25%",
           "imageScale": "1.5"
+        },
+        {
+          "name": "Shiming Lin",
+          "image": "ZhangLab/members/lsm.6301e986fa.webp",
+          "joinDate": "2026.9",
+          "description": "I'm from Suzhou, Jiangsu. I'm currently studying Pharmaceutical Engineering at iBHE. Before joining Professor Zhang's group, I studied Food Quality and Safety at Jilin University. In my free time, I enjoy playing basketball and football, and I also love singing. I'm really looking forward to my graduate school life!",
+          "imagePosition": "-15%",
+          "imageScale": "0.75"
         }
       ]
     }
