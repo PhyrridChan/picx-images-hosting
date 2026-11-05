@@ -35,6 +35,15 @@
   "publications": [
     {
       "year": 2026,
+      "title": "Programmed Gut–Liver-Targeted Oral Delivery of Peptide-Probiotic Nano-Microsystem for Metabolic Complications of Hyperglycemia and Hyperuricemia",
+      "authors": "Junyu Liu, Xiaobin Li, Xupu Xing, Yun Chen, Yiting Li, Chang Wen, Haihong Chen, Yumao He, Yilin Zheng, Jin Xie, Xiao Dong Chen, Yi Wang, Chong Zhang, Xin-Hui Xing, Can Yang Zhang*",
+      "journal": "Advanced Healthcare Materials",
+      "type": "Journal Article",
+      "url": "https://doi.org/10.1002/adhm.71954",
+      "abstract": "Hyperglycemia and hyperuricemia are highly prevalent metabolic comorbidities characterized by systemic metabolic disturbances and complex multi-organ pathogenesis, urgently requiring synergistic multi-organ-targeted therapeutic strategies. Here, we present a programmed gut-liver-targeted oral peptide-probiotic nano-microsystem for metabolic complications of hyperglycemia and hyperuricemia treatment. The xanthine oxidase (XOD)-inhibitory peptide PPKNW (P1) was loaded in a layer-by-layer reactive oxygen species (ROS)-responsive nanoparticle (P1NPs), followed by engineering on the surface of probiotic Akkermansia muciniphila (Akk), resulting in a peptide-probiotic nano-microsystem (P1NPs@ Akk ). After oral administration, P1NPs@ Akk remained stable during gastric passage. Upon reaching intestinal environment, CS and HA layers were progressively removed, exposing the P1-loaded polymersomes, which were transported across the intestinal epithelium via PAT-1-mediated transcytosis. In the liver, P1 was released in response to ROS-mediated disulfide bond cleavage to inhibit XOD and reduce uric acid synthesis. Meanwhile, Akk was delivered to and colonized in the intestine to regulate glucose metabolism. In a mouse model of combined hyperglycemia and hyperuricemia, P1NPs@ Akk promoted hepatic accumulation of P1 and intestinal enrichment of Akk , resulting in significant reductions in blood glucose and uric acid levels. This work presents a programmed gut–liver-targeted oral platform that integrates peptide therapy and probiotic intervention for multi-organ regulation of metabolic disorders."
+    },
+    {
+      "year": 2026,
       "title": "Thermoresponsive Nanoparticles Hijack Neutrophils In Vivo to In Situ Construct Biohybrids for Enhanced Cancer and Infection Therapy",
       "authors": "Xiaobin Li, Yun Chen, Xupu Xing, Chang Wen, Juping Sun, Yiting Li, Yuqi Zhang, Yingshi Su, Shaohua Ma, Peter E. Lobie, Xin-Hui Xing, Wei Tao, Can Yang Zhang*",
       "journal": "ACS Nano",
@@ -106,17 +115,17 @@
       "url": "https://doi.org/10.1002/advs.202521580",
       "abstract": "The integration of metal-organic frameworks (MOFs) with cell membrane coatings has emerged as a revolutionary strategy to enhance the therapeutic efficacy of cancer nanomedicine. In this review, we systematically summarized recent advances in cell membrane-camouflaged MOF as drug delivery systems, focusing on their unique advantages in tumor targeting, immune evasion, and biocompatibility. By emulating the characteristics of natural cells, these biomimetic systems demonstrate enhanced circulation time, increased accumulation within tumors, and decreased uptake by macrophages. A critical analysis was conducted on a variety of membrane sources, including cancer cells, red blood cells, and macrophages. The analysis focused on the functionalities of these sources in tumor homing and immune modulation. The following design strategies are of particular interest: hybrid membrane engineering and stimuli-responsive drug release mechanisms. This field demonstrates considerable potential for combination therapies integrating chemotherapy, immunotherapy, and photothermal modalities. In the future, the development of new drugs should prioritize intelligent drug release systems and personalized treatment through advanced biomaterial engineering.",
       "acknowledgement": {
-        "2023YFA0913600":"Key Research and Development Program of the Ministry of Science and Technology",
+        "2023YFA0913600": "Key Research and Development Program of the Ministry of Science and Technology",
         "22425803": "National Natural Science Foundation of China",
-        "22278242":"National Natural Science Foundation of China",
-        "2023Z02ORD001":"Tsinghua University Initiative Research Program",
+        "22278242": "National Natural Science Foundation of China",
+        "2023Z02ORD001": "Tsinghua University Initiative Research Program",
         "Z240030": "Beijing Natural Science Foundation",
         "L248023": "Beijing Natural Science Foundation",
         "KCXFZ20240903093102004": "Shenzhen Science and Technology Program",
         "KCXFZ20230731094459001": "Shenzhen Science and Technology Program",
         "2021QN02Y225": "Pearl River Talent Program",
-        "HW2023009":"Shenzhen International Graduate School at Tsinghua University",
-        "JC2021011":"Shenzhen International Graduate School at Tsinghua University"
+        "HW2023009": "Shenzhen International Graduate School at Tsinghua University",
+        "JC2021011": "Shenzhen International Graduate School at Tsinghua University"
       }
     },
     {
@@ -134,8 +143,8 @@
         "22278242": "National Natural Science Foundation of China",
         "2021QN02Y225": "Pearl River Talent Program",
         "KCXFZ20230731094459001": "Shenzhen Technology and Innovation Commission",
-        "HW2023009":"Department of Chemical Engineering-iBHE Joint Cooperation Fund and the Funds from Shenzhen International Graduate School at Tsinghua University",
-        "JC2021011":"Department of Chemical Engineering-iBHE Joint Cooperation Fund and the Funds from Shenzhen International Graduate School at Tsinghua University"
+        "HW2023009": "Department of Chemical Engineering-iBHE Joint Cooperation Fund and the Funds from Shenzhen International Graduate School at Tsinghua University",
+        "JC2021011": "Department of Chemical Engineering-iBHE Joint Cooperation Fund and the Funds from Shenzhen International Graduate School at Tsinghua University"
       }
     },
     {
@@ -146,9 +155,7 @@
       "type": "Journal Article",
       "url": "https://doi.org/10.1002/adhm.202505683",
       "abstract": "Bacterial infections pose a major global health threat, exacerbated by the rise of antimicrobial resistance. However, antibiotics are losing efficacy due to the emergence of multidrug-resistant pathogens. Here, we reported a bioresponsive nanoparticle with antimicrobial activity and targeting effect to bypass the antimicrobial resistance and to improve the bacterial infections treatment. We established a mini library of quaternary ammonium compounds, and screened the N-benzyl-N-(n-(4-formyl-3,5-dimethoxyphenoxy)decyl)-N,N,N,N-tetramethylhexane-1,6-diaminium (BTA-10) that enabled high antimicrobial activity in vitro and safety in vivo, which was selected to conjugate with the poly(ethylene glycol) (PEG) via pH-responsive bond to synthesize amphiphilic copolymer for preparation of polymeric micelle, followed by decorating with anti-ICAM-1 as targeting ligand via click chemistry, resulting in bioresponsive nanoparticle (NPs-anti-ICAM-1). The anti-inflammatory drug TPCA-1 was physically loaded to enhance the therapeutic efficacy, to prepare the final therapeutic (TPCA-1@NPs-anti-ICAM-1). Upon intravenous injection, TPCA-1@NPs-anti-ICAM-1 can specifically target to the site of infection, and release the cargos (BTA-10 and TPCA-1) by responding to acids in the infection microenvironment. The in vivo studies demonstrated that TPCA-1@NPs-anti-ICAM-1 showed high therapeutic efficacy for acute lung infection and peritonitis in mouse. In summary, we reported a de novo-designed bioresponsive nanoparticle with antimicrobial activity, offering a promising approach to combat bacterial infections.",
-      "acknowledgement": {
-
-      }
+      "acknowledgement": {}
     },
     {
       "year": 2026,
@@ -159,7 +166,7 @@
       "abstract": "Infections are the leading cause of neonatal mortality, yet disease management remains challenging due to nonspecific clinical manifestations. Although serial blood analyses remain critical for monitoring disease progression, the small and fragile nature of neonatal vasculature makes venipuncture challenging. Interstitial fluid (ISF) offers a promising alternative to blood for rapid and convenient diagnosis. Here we report a universal detection strategy based on swellable microneedle patches (SMNPs) that enable painless ISF collection and multiple biomarker analysis via compatible with existing infrastructure. Experimental validation in neonatal rat models achieves infection detection (<10 minutes) through C-reactive protein (CRP) quantitation and reveals strong ISF-serum correlations for CRP. Moreover, clinical validation involving 46 human volunteers demonstrates accurate ISF quantification of uric acid (UA) and total cholesterol (TC), with strong ISF-serum correlations observed for both biomarkers. These findings emphasize the universal compatibility of SMNPs-based strategy for multiple biomarker detection, offering a transformative solution for health management.",
       "url": "https://doi.org/10.1016/j.xcrp.2026.103101"
     },
-    { 
+    {
       "year": 2025,
       "title": "Mannose-Modified Cationic Liposome-Based mRNA Therapeutics for Improved Triple-Negative Breast Cancer Immunotherapy",
       "authors": "Kexin Deng, Juping Sun, Junyu Liu, Yuqi Zhang, Wanwan Liu, Xiaobin Li, Han Wu, Juan Li, Jisong Zhang, Chanyuan Jin, Can Yang Zhang*",
@@ -331,7 +338,7 @@
       "journal": "Microchimica Acta",
       "type": "Journal Article",
       "url": "https://doi.org/10.1007/s00604-024-06545-4",
-      "ackwnowledgement": { 
+      "ackwnowledgement": {
         "31970752": "the National Natural Science Foundation of China",
         "32350410397": "the National Natural Science Foundation of China",
         "JCYJ20190809180003689": "Science, Technology, Innovation Commission of Shenzhen Municipality",
@@ -344,7 +351,7 @@
         "D2301002": "Shenzhen Medical Research Funds",
         "DCE-iBHE-2022-3": "Department of Chemical Engineering-iBHE special cooperation joint fund project",
         "JC2022009": "Tsinghua Shenzhen International Graduate School Cross-disciplinary Research and Innovation Fund Research Plan",
-        "2022-207": "Bureau of Planning, Land and Resources of Shenzhen Municipality", 
+        "2022-207": "Bureau of Planning, Land and Resources of Shenzhen Municipality",
         "2020M680023": "China Postdoctoral Science Foundation"
       }
     },
@@ -357,7 +364,7 @@
       "url": "https://doi.org/10.1126/sciadv.ado7438",
       "ackwnowledgement": {
         "2023YFA0914300": "Key Research and Development Program of the Ministry of Science and Technology",
-        "2023YFA0914304": "Key Research and Development Program of the Ministry of Science and Technology", 
+        "2023YFA0914304": "Key Research and Development Program of the Ministry of Science and Technology",
         "B2302009": "Shenzhen Medical Research Fund (SMRF)",
         "22161142014": "National Natural Science Foundation of China"
       }
@@ -500,7 +507,7 @@
       "journal": "International Journal of Biological Macromolecules",
       "type": "Journal Article",
       "url": "https://doi.org/10.1016/j.ijbiomac.2024.129251",
-      "acknowledgement": { 
+      "acknowledgement": {
         "22305141": "National Natural Science Foundation of China",
         "51908252": "National Natural Science Foundation of China",
         "2023M741474": "Postdoctoral Research Foundation of China",
